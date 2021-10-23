@@ -22,7 +22,11 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
   - [Books](#books)
   - [Courses](#courses)
 - [Math](#math)
+  - [Math Tutorials](#math-tutorials)
+  - [Math Books](#math-books)
   - [Homogeneous Coordinate](#homogeneous-coordinate)
+  - [Geometric Algebra](#geometric-algebra)
+  - [Curves and Surfaces](#curves-and-surfaces)
   - [Implementing Math Library](#implementing-math-library)
 - [Ray Tracing](#ray-tracing)
   - [Intro to Ray Tracing](#intro-to-ray-tracing)
@@ -92,8 +96,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ## Overview
 ### Books
-- [Real-Time Rendering, Fourth Edition](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) - Non-free book
-- [Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
+- [Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html) - Free
+- [Real-Time Rendering, Fourth Edition](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003)
 - [Fundamentals of Computer Graphics 5th Edition](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037)
 
 ### Courses
@@ -102,8 +106,22 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ## Math
 
+### Math Tutorials
+- [[video series] Math For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V) - Video Series from Freya Holmér
+
+### Math Overview
+- [Mathematics for Computer Graphics](https://www.amazon.com/Mathematics-Computer-Graphics-Undergraduate-Science/dp/1447173341)
+- [Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition](https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869)
+- [Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) -Introduces math routings with implementations. It also touchs grassman algebra.
+
 ### Homogeneous Coordinate
 - [A trip down the graphics pipeline: the homogeneous perspective transform](https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf)
+
+### Geometric Algebra
+- [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
+
+### Curves and Surfaces
+- [[video] The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
 
 ### Implementing Math Library
 - [On Vector Math Libraries](https://www.reedbeta.com/blog/on-vector-math-libraries/)
