@@ -94,6 +94,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Books
 - [Real-Time Rendering, Fourth Edition](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) - Non-free book
 - [Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
+- [Fundamentals of Computer Graphics 5th Edition](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037)
 
 ### Courses
 - [CMU's introductory to Computer Graphics course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
