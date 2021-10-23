@@ -63,7 +63,6 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
   - [Debuggers](#debuggers)
 - [Assets](#assets)
 </details>
-<br>
 
 ## Beginner friendly
 
