@@ -242,6 +242,10 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 - [vk_mini_path_tracer tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer) A relative small tutorial that focus on path tracing using Vulkan's ray tracing API.
 - [3D Graphics Rendering Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197) - Nonfree book
 
+#### Meta Links
+- [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
+- [Great Resources - Vulkan Guide](https://vkguide.dev/docs/great_resources)
+
 #### Sychronization
 - [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
 - [Vulkan Timeline Semaphores](https://www.khronos.org/blog/vulkan-timeline-semaphores)
@@ -249,6 +253,12 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 #### Vulkan Compute
 - [A simple Vulkan Compute example](https://www.duskborn.com/posts/a-simple-vulkan-compute-example/)
 - [Vulkan Subgroup tutorial. AKA wavefronts](https://www.khronos.org/blog/vulkan-subgroup-tutorial)
+
+#### Libraries
+- [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) Library that simplify the Vulkan initialization boilerplate.
+- [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) Memory allocation library that simplifies Vulkan memory allocation and provides decent performance.
+- [volk](https://github.com/zeux/volk) Meta-loader for Vulkan that allows you to dynamically load entrypoints required to use Vulkan. It also simplify the use of Vulkan extensions.
+- [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Can be used to extract descriptor and push constant information from SPIRV
 
 #### Others
 - [Vulkan Diagram](https://github.com/David-DiGioia/vulkan-diagrams)
@@ -258,15 +268,6 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 #### Tutorials
 - [Learn wgpu](https://sotrh.github.io/learn-wgpu/)
 
-#### Libraries
-- [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) Library that simplify the Vulkan initialization boilerplate.
-- [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) Memory allocation library that simplifies Vulkan memory allocation and provides decent performance.
-- [volk](https://github.com/zeux/volk) Meta-loader for Vulkan that allows you to dynamically load entrypoints required to use Vulkan. It also simplify the use of Vulkan extensions.
-- [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Can be used to extract descriptor and push constant information from SPIRV
-
-#### Meta Links
-- [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
-- [Great Resources - Vulkan Guide](https://vkguide.dev/docs/great_resources)
 
 ## Programming
 ### Engine Development
