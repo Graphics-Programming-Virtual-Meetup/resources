@@ -11,62 +11,9 @@ A hand-picked list of graphics programming resources by graphics programming vir
 
 Contributions welcome! To submit a PR, please first read the [contribution guidelines](contributing.md) first. You can also join our [Discord Server](https://discord.gg/TsTDb4uYfR) and make suggestions there.
 
-## Contents
 
-<details>
-  <summary>Display of Contents</summary>
-
-- [Beginner friendly](#beginner-friendly)
-- [Meta-links](#meta-links)
-- [Overview](#overview)
-  - [Books](#books)
-  - [Courses](#courses)
-- [Math](#math)
-  - [Math Tutorials](#math-tutorials)
-  - [Math Books](#math-books)
-  - [Homogeneous Coordinate](#homogeneous-coordinate)
-  - [Geometric Algebra](#geometric-algebra)
-  - [Curves and Surfaces](#curves-and-surfaces)
-  - [Implementing Math Library](#implementing-math-library)
-- [Ray Tracing](#ray-tracing)
-  - [Intro to Ray Tracing](#intro-to-ray-tracing)
-  - [Ray Tracing Books](#ray-tracing-books)
-  - [BVH](#bvh)
-  - [Variance Reduction](#variance-reduction)
-  - [Denoising](#denoising)
-  - [Ray Tracing API](#ray-tracing-api)
-  - [Wavefront Path Tracing](#wavefront-path-tracing)
-- [Rasterization](#rasterization)
-  - [Graphics Pipeline](#graphics-pipeline)
-- [Graphics Techniques](#graphics-techniques)
-  - [Depth Buffer](#depth-buffer)
-  - [Normal Mapping](#normal-mapping)
-  - [Shadow](#shadow)
-  - [Ambient Occlusion](#ambient-occlusion)
-  - [Reflection](#reflection)
-  - [Transparency](#transparency)
-  - [Ray Marching and SDF](#ray-marching-and-sdf)
-  - [Color, HDR, and Tone Mapping](#color-hdr-and-tone-mapping)
-  - [Mipmapping](#mipmapping)
-  - [Samping](#sampling)
-- [PBR](#pbr)
-- [Shader Programming](#shader-programming)
-- [Compute](#compute)
-  - [Introduction to compute shader](#introduction-to-compute-shader)
-  - [GPU Architecture](#gpu-architecture)
-  - [Parallel Algorithms](#parallel-algorithms)
-  - [GPU-driven rendering](#gpu-driven-rendering)
-- [Animation](#animation)
-- [APIs](#apis)
-  - [OpenGL](#opengl)
-  - [Vulkan](#vulkan)
-  - [WebGPU](#webgpu)
-- [Programming](#programming)
-  - [Engine Development](#engine-development)
-- [Tools](#tools)
-  - [Debuggers](#debuggers)
-- [Assets](#assets)
-</details>
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Beginner friendly
 
