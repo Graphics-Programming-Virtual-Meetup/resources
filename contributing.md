@@ -10,8 +10,6 @@ Ensure your pull request adheres to the following guidelines:
 
 - Please only submit resources that you read and you can personally vouch for
 - Feel free to change order or rearrange categories if you think the result reads better
-- When adding/moving a category, be sure to also update the table of contents at the top of the page
-
 
 Thank you for your suggestions!
 
