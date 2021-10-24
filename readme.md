@@ -149,11 +149,8 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 - [Ray Tracing Denoising - Alain.xyz](https://alain.xyz/blog/ray-tracing-denoising)
 - [Ray Tracing Filtering - Alain.xyz](https://alain.xyz/blog/ray-tracing-filtering)
 
-### Wavefront Path Tracing
-- [Wavefront formulation raytracing](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf)
-
-### Ray Tracing API
-- [Understanding the Efficiency of Ray Traversal on GPUs](https://research.nvidia.com/publication/understanding-efficiency-ray-traversal-gpus)
+### GPU Ray Tracing
+- [Megakernels Considered Harmful: Wavefront Path Tracing on GPUs](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf)
 
 ## Rasterization
 ### Graphics Pipeline
