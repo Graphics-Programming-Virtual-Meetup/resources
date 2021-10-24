@@ -215,7 +215,6 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
-- [Real-Time Physically Based Rendering and BRDFs](https://mechanicsfoundry.github.io/Physically-Based-Rendering-and-BRDFs/)
 
 ## Shader Programming
 - [The Book of Shaders](https://thebookofshaders.com/)
