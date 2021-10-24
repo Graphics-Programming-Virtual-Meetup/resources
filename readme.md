@@ -305,4 +305,7 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 - [SpectorJS (WebGL)](https://github.com/BabylonJS/Spector.js)
 
 ## Assets
-- [Free large graphics scene samples](https://developer.nvidia.com/orca)
+- [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes
+- [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples
+- [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering
+- [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
