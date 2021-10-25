@@ -92,9 +92,6 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Awesome Computer Graphics](https://github.com/luisnts/awesome-computer-graphics)
 - [Awesome Graphics Libraries - engines & frameworks](https://github.com/jslee02/awesome-graphics-libraries)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Awesome WebGL](https://project-awesome.org/sjfricke/awesome-webgl)
-- [Awesome C](https://project-awesome.org/inputsh/awesome-c#game-programming)
-- [Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
 - [Awesome Gamedev](https://github.com/ellisonleao/magictools)  - lots of graphics related stuff
 
 ## Overview
@@ -141,8 +138,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) - Excellent overview paper
 - [bvh - A modern C++ BVH construction and traversal library](https://github.com/madmann91/bvh)
 ### Variance Reduction
-- [Distributing Monte Carlo Errors as a Blue Noise in Screen Space
-by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
+- [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 
 ### Denoising
 - [Ray Tracing Denoising - Alain.xyz](https://alain.xyz/blog/ray-tracing-denoising)
@@ -239,8 +235,7 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 
 ### Parallel Algorithms
 - [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
-- [Thinking Parallel, Part I: Collision Detection on the GPU
-](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
+- [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
 - [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/)
 
@@ -250,7 +245,11 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 ## APIs
 ### OpenGL
 - [docs.gl](http://docs.gl/) - OpenGL API Documentation
+
+#### Tutorials
 - [Learn OpenGL](https://learnopengl.com/) - The highly recommended tutorial
+
+#### Meta-links
 - [Awesome OpenGL](https://project-awesome.org/eug/awesome-opengl) - Curated List for OpenGL
 
 ### Vulkan
@@ -260,7 +259,7 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 - [vk_mini_path_tracer tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer) A relative small tutorial that focus on path tracing using Vulkan's ray tracing API.
 - [3D Graphics Rendering Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197) - Nonfree book
 
-#### Meta Links
+#### Meta-links
 - [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Great Resources - Vulkan Guide](https://vkguide.dev/docs/great_resources)
 
@@ -281,16 +280,23 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 #### Others
 - [Vulkan Diagram](https://github.com/David-DiGioia/vulkan-diagrams)
 
+### WebGL
+- [Awesome WebGL](https://project-awesome.org/sjfricke/awesome-webgl)
+
 ### WebGPU
 - [Spec](https://gpuweb.github.io/gpuweb/)
 #### Tutorials
 - [Learn wgpu](https://sotrh.github.io/learn-wgpu/)
 
-
 ## Programming
+### Meta-links
+- [Awesome C](https://project-awesome.org/inputsh/awesome-c#game-programming)
+- [Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
 ### Engine Development
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It?](https://therealmjp.github.io/posts/shader-permutations-part2/)
+### High-level Programming
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 
 ## Tools
 ### Debuggers
@@ -304,4 +310,4 @@ by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering
-- [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/)
+- [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba and pbrt-v3 formats
