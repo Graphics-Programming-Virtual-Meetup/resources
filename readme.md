@@ -199,6 +199,15 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - classic paper
 - [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
 
+### Line, Edge, and Outline Drawing
+#### Triangulated line
+- [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
+- [Instanced Line Rendering Part I](https://wwwtyro.net/2019/11/18/instanced-lines.html)
+- [Instanced Line Rendering Part II: Alpha blending](https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html)
+
+#### Outline
+- [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/)
+- [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
 
 ## PBR
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
