@@ -61,9 +61,12 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
 - [APIs](#apis)
   - [OpenGL](#opengl)
   - [Vulkan](#vulkan)
+  - [WebGL](#webgl)
   - [WebGPU](#webgpu)
 - [Programming](#programming)
+  - [Meta-links](#meta-links-1)
   - [Engine Development](#engine-development)
+  - [High-level Programming](#high-level-programming)
 - [Tools](#tools)
   - [Debuggers](#debuggers)
 - [Assets](#assets)
@@ -112,7 +115,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Books
 - [Mathematics for Computer Graphics](https://www.amazon.com/Mathematics-Computer-Graphics-Undergraduate-Science/dp/1447173341)
 - [Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition](https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869)
-- [Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) -Introduces math routings with implementations. It also touchs grassman algebra.
+- [Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) -Introduces math routines with implementations. It also touchs grassman algebra.
 
 ### Homogeneous Coordinate
 - [A trip down the graphics pipeline: the homogeneous perspective transform](https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf)
