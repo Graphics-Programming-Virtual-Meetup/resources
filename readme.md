@@ -254,6 +254,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ## Animation
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
+- [(video) Animation Programming Basics](https://youtu.be/Jkv0pbp0ckQ)
+- [(video) Animation Graphs](https://youtu.be/R-T3Mk5oDHI)
 
 ## APIs
 ### OpenGL
