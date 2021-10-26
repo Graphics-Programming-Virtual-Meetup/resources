@@ -50,6 +50,7 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
   - [Color, HDR, and Tone Mapping](#color-hdr-and-tone-mapping)
   - [Mipmapping](#mipmapping)
   - [Sampling](#sampling)
+  - [Line, Edge, and Outline Drawing](#line-edge-and-outline-drawing)
 - [PBR](#pbr)
 - [Shader Programming](#shader-programming)
 - [Compute](#compute)
