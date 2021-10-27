@@ -195,6 +195,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Color, HDR, and Tone Mapping
 - [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
+- [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
 
 ### Mipmapping
 - [Pyramidal Parametrics](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf) - Original Mipmap paper
