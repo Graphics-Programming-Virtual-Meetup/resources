@@ -308,6 +308,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Meta-links
 - [Awesome C](https://project-awesome.org/inputsh/awesome-c#game-programming)
 - [Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 ### Engine Development
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It?](https://therealmjp.github.io/posts/shader-permutations-part2/)
