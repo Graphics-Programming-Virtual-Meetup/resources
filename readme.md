@@ -274,7 +274,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Geometry representations
 - [Lecture 10: Meshes and Manifolds (CMU 15-462/662)](https://youtu.be/HePDHsp8spU) - Great overview, and also spend significant time on the half-edge data structure
 
-### Iso-surface method
+### Iso-surface methods
 - [Interactive explanation of marching cubes and dual contouring](https://wordsandbuttons.online/interactive_explanation_of_marching_cubes_and_dual_contouring.html)
 - [Polygonising a scalar field (Marching Cubes)](http://paulbourke.net/geometry/polygonise/)
 - [Dual Contouring Tutorial](https://www.boristhebrave.com/2018/04/15/dual-contouring-tutorial/)
