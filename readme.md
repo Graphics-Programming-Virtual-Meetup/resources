@@ -320,6 +320,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [The Shader Permutation Problem - Part 2: How Do We Fix It?](https://therealmjp.github.io/posts/shader-permutations-part2/)
 ### High-level Programming
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+### Game loop
+- [Game Loop - Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
+- [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
 
 ## Tools
 ### Debuggers
