@@ -144,6 +144,10 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Variance Reduction
 - [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 
+## Intersection
+- [Static Object Intersections - Real Time Rendering Resource Page](https://www.realtimerendering.com/intersections.html) - A collection of intersection algorithms
+
+
 ### Denoising
 - [Ray Tracing Denoising - Alain.xyz](https://alain.xyz/blog/ray-tracing-denoising)
 - [Ray Tracing Filtering - Alain.xyz](https://alain.xyz/blog/ray-tracing-filtering)
@@ -160,6 +164,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A short tutorial on writing a software rasterizer. Be careful that the tutorial has some rough edges.
 - [A Parallel Algorithm for Polygon Rasterization](https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf)
 - [Scratchapixel: Rasterization Stage](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/rasterization-stage)
+- [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 - [Optimizing the basic rasterizer](https://fgiesen.wordpress.com/2013/02/10/optimizing-the-basic-rasterizer/)
 
 ## Graphics Techniques
