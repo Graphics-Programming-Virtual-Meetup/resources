@@ -62,7 +62,7 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
 - [Animation](#animation)
 - [Geometry](#geometry)
   - [Geometry representations](#geometry-representations)
-  - [Iso-surface method](#iso-surface-method)
+  - [Iso-surface methods](#iso-surface-methods)
   - [Libraries](#libraries)
 - [APIs](#apis)
   - [OpenGL](#opengl)
