@@ -319,6 +319,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [volk](https://github.com/zeux/volk) Meta-loader for Vulkan that allows you to dynamically load entrypoints required to use Vulkan. It also simplify the use of Vulkan extensions.
 - [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Can be used to extract descriptor and push constant information from SPIRV
 
+#### Performance Best Practice
+- [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+
 #### Others
 - [Vulkan Diagram](https://github.com/David-DiGioia/vulkan-diagrams)
 
