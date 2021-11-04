@@ -151,7 +151,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Variance Reduction
 - [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 
-## Intersection
+### Intersection
 - [Static Object Intersections - Real Time Rendering Resource Page](https://www.realtimerendering.com/intersections.html) - A collection of intersection algorithms
 
 
@@ -206,16 +206,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Distant functions for primitives - Inigo Quilez](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 - [soft shadows in raymarched SDFs - 2010](https://www.iquilezles.org/www/articles/rmshadows/rmshadows.htm)
 
-### Color, HDR, and Tone Mapping
-- [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
-- [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
-
 ### Mipmapping
 - [Pyramidal Parametrics](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf) - Original Mipmap paper
-
-### Sampling
-- [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - classic paper
-- [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
 
 ### Line, Edge, and Outline Drawing
 #### Triangulated line
@@ -226,6 +218,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 #### Outline
 - [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/)
 - [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
+
+### Tessellation
+- [Tutorial 30: Basic Tessellation](https://ogldev.org/www/tutorial30/tutorial30.html) - Adds tutorial for Tessellation
 
 ## PBR
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
@@ -265,6 +260,14 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
 - [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/)
+
+## Color, HDR, and Tone Mapping
+- [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
+- [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
+
+## Sampling
+- [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - classic paper
+- [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
 
 ## Animation
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
