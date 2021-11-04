@@ -298,6 +298,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Spec](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html) It is a good idea to keep it open while doing Vulkan Programming.
 #### Tutorials
 - [Vulkan Guide](https://vkguide.dev/) The best "Vulkan Tutorial" available.
+- [TU Wien: Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
 - [vk_mini_path_tracer tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer) A relative small tutorial that focus on path tracing using Vulkan's ray tracing API.
 - [3D Graphics Rendering Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197) - Nonfree book
 
