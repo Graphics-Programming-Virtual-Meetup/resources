@@ -130,6 +130,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Homogeneous Coordinate
 - [A trip down the graphics pipeline: the homogeneous perspective transform](https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf)
 
+### Rotation
+- [Gimbal lock confusion - Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/questions/12273/gimbal-lock-confusion)
+
 ### Geometric Algebra
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
