@@ -174,6 +174,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Scratchapixel: Rasterization Stage](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/rasterization-stage)
 - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 - [Optimizing the basic rasterizer](https://fgiesen.wordpress.com/2013/02/10/optimizing-the-basic-rasterizer/)
+- [High-Performance Software Rasterization on GPUs](https://users.aalto.fi/~laines9/publications/laine2011hpg_paper.pdf)
+- [Line Rasterization slides, MIT EECS 6.837, Teller and Durand](http://groups.csail.mit.edu/graphics/classes/6.837/F02/lectures/6.837-7_Line.pdf)
 
 ## Graphics Techniques
 
