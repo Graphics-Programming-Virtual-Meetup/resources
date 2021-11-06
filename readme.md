@@ -104,6 +104,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Awesome Graphics Libraries - engines & frameworks](https://github.com/jslee02/awesome-graphics-libraries)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Awesome Gamedev](https://github.com/ellisonleao/magictools)  - lots of graphics related stuff
+- [Physics-Based Animation](http://www.physicsbasedanimation.com/) - learning resources and papers
 
 ## Overview
 ### Books
