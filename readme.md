@@ -26,6 +26,7 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
   - [Tutorials](#tutorials)
   - [Books](#books-1)
   - [Homogeneous Coordinate](#homogeneous-coordinate)
+  - [Rotation](#rotation)
   - [Geometric Algebra](#geometric-algebra)
   - [Curves and Surfaces](#curves-and-surfaces)
   - [Implementing Math Library](#implementing-math-library)
