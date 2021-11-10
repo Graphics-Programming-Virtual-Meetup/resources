@@ -144,6 +144,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Implementing Math Library
 - [On Vector Math Libraries](https://www.reedbeta.com/blog/on-vector-math-libraries/)
+- [GDC18 - Linear Algebra Upgraded](http://www.terathon.com/gdc18_lengyel.pdf)
+- 🎥 [CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”](https://www.youtube.com/watch?v=8FoAxasNssA)
 
 ## Ray Tracing
 ### Intro to Ray Tracing
