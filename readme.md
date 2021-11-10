@@ -90,7 +90,7 @@ though intermediate or advanced folks can also benefit from them.
 
 - [Learn OpenGL](https://learnopengl.com/) - learnopengl.com is the definitive resource for learning real-time renderer techniques as beginners. Even though it is an OpenGL tutorial, it also teaches rendering techniques at the same time.
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/) - Those three short books explain basic concepts of path tracing and implement a software renderer from scratch.
-- [CMU's introductory to Computer Graphics course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) -
+- 🎥 [CMU's introductory to Computer Graphics course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) -
 A comprehensive introduction to various topics in computer graphics.
 - [Catlike Coding](https://catlikecoding.com/) - Focus on C# and shaders in Unity
 - [Book Of Shaders](https://thebookofshaders.com/) - The author introduces shaders from an artistic perspective, and the book covers many topics that more engineering-focused resources such as "Learn OpenGL" won't cover.
@@ -122,7 +122,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ## Math
 
 ### Tutorials
-- [[video series] Math For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V) - Video Series from Freya Holmér
+- 🎥 [Math For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V) - Video Series from Freya Holmér
 
 ### Books
 - [immersive linear algebra](http://immersivemath.com/ila/index.html) - free online book with interactive figures
@@ -140,7 +140,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
 ### Curves and Surfaces
-- [[video] The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
+- 🎥 [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
 
 ### Implementing Math Library
 - [On Vector Math Libraries](https://www.reedbeta.com/blog/on-vector-math-libraries/)
@@ -161,7 +161,6 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Intersection
 - [Static Object Intersections - Real Time Rendering Resource Page](https://www.realtimerendering.com/intersections.html) - A collection of intersection algorithms
-
 
 ### Denoising
 - [Ray Tracing Denoising - Alain.xyz](https://alain.xyz/blog/ray-tracing-denoising)
@@ -196,7 +195,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Shadow Mapping - LearnOpenGL](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
 - [Efficient Shadows from Many Lights](https://efficientshading.com/wp-content/uploads/s2015_shadows.pdf)
 - [Experiments in Hybrid Raytraced Shadows](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
-- [Michał Olejnik - Raytraced Shadows in Call of Duty: Modern Warfare video presentation](https://www.youtube.com/watch?v=VXp-HEAw-l4) 
+- 🎥 [Michał Olejnik - Raytraced Shadows in Call of Duty: Modern Warfare video presentation](https://www.youtube.com/watch?v=VXp-HEAw-l4) 
 
 ### Ambient Occlusion
 - [Learn OpenGL: SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
@@ -281,12 +280,12 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ## Animation
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
-- [(video) Animation Programming Basics](https://youtu.be/Jkv0pbp0ckQ)
-- [(video) Animation Graphs](https://youtu.be/R-T3Mk5oDHI)
+- 🎥 [Animation Programming Basics](https://youtu.be/Jkv0pbp0ckQ)
+- 🎥 [Animation Graphs](https://youtu.be/R-T3Mk5oDHI)
 
 ## Geometry
 ### Geometry representations
-- [Lecture 10: Meshes and Manifolds (CMU 15-462/662)](https://youtu.be/HePDHsp8spU) - Great overview, and also spend significant time on the half-edge data structure
+- 🎥 [Lecture 10: Meshes and Manifolds (CMU 15-462/662)](https://youtu.be/HePDHsp8spU) - Great overview, and also spend significant time on the half-edge data structure
 
 ### Iso-surface methods
 - [Interactive explanation of marching cubes and dual contouring](https://wordsandbuttons.online/interactive_explanation_of_marching_cubes_and_dual_contouring.html)
@@ -311,7 +310,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Spec](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html) It is a good idea to keep it open while doing Vulkan Programming.
 #### Tutorials
 - [Vulkan Guide](https://vkguide.dev/) The best "Vulkan Tutorial" available.
-- [TU Wien: Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
+- 🎥 [TU Wien: Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
 - [vk_mini_path_tracer tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer) A relative small tutorial that focus on path tracing using Vulkan's ray tracing API.
 - [3D Graphics Rendering Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197) - Nonfree book
 
