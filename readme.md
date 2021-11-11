@@ -320,6 +320,12 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Great Resources - Vulkan Guide](https://vkguide.dev/docs/great_resources)
 
+#### Swapchain & frame resources
+- [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html) (there is no part 2)
+
+#### Descriptors
+- 🎥 [Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
+
 #### Sychronization
 - [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
 - [Vulkan Timeline Semaphores](https://www.khronos.org/blog/vulkan-timeline-semaphores)
