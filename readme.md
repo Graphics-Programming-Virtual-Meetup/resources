@@ -69,6 +69,7 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
 - [APIs](#apis)
   - [OpenGL](#opengl)
   - [Vulkan](#vulkan)
+  - [DirectX 12](#directx-12)
   - [WebGL](#webgl)
   - [WebGPU](#webgpu)
 - [Programming](#programming)
