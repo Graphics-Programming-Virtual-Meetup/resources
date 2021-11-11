@@ -340,6 +340,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 #### Others
 - [Vulkan Diagram](https://github.com/David-DiGioia/vulkan-diagrams)
 
+### DirectX 12
+- [Learning DirectX 12](https://www.3dgep.com/learning-directx-12-1/) - Tutorial series from 3dgep.com
+
 ### WebGL
 - [Awesome WebGL](https://project-awesome.org/sjfricke/awesome-webgl)
 
