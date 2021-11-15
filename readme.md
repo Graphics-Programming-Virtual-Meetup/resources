@@ -364,6 +364,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 ### Engine Development
+- [Game Engine Archirecture](https://www.gameenginebook.com/) (paid book)
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It?](https://therealmjp.github.io/posts/shader-permutations-part2/)
 ### High-level Programming
@@ -371,6 +372,13 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Game loop
 - [Game Loop - Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
+### Memory Allocation
+- [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/) series
+- [Memory Management](https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management) section on Pbrt
+- The Memory chapter of [Game Engine Archirecture](https://www.gameenginebook.com/)
+- [Object Pool](http://gameprogrammingpatterns.com/object-pool.html) chapter of Game Programming Pattern
+- 🎥 CppCon 2017: John Lakos “Local ('Arena') Memory Allocators [[Part1]](https://youtu.be/nZNd5FjSquk) [[Part2]](https://youtu.be/CFzuFNSpycI)
+- 🎥 [CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://youtu.be/kSWfushlvB8)
 
 ## Tools
 ### Debuggers
