@@ -77,6 +77,7 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
   - [Engine Development](#engine-development)
   - [High-level Programming](#high-level-programming)
   - [Game loop](#game-loop)
+  - [Memory Allocation](#memory-allocation)
 - [Tools](#tools)
   - [Debuggers](#debuggers)
 - [Assets](#assets)
