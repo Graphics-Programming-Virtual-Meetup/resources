@@ -153,6 +153,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Intro to Ray Tracing
 - [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) - Turner Whitted's original Ray Tracing Paper
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
+- 🎥[Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction of importance sampling
+
 ### Ray Tracing Books
 - [Physically Based Rendering: From Theory To Implementation Third Edition](https://www.pbr-book.org/)
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html)
