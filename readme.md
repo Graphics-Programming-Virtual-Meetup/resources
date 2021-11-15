@@ -327,10 +327,16 @@ Resources that curate other resources. Some of meta links are omitted here if th
 #### Swapchain & frame resources
 - [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html) (there is no part 2)
 
-#### Descriptors
-- 🎥 [Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
+#### Bindless/Descriptor indexing
+- 🎥 [Khronos Talk on Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
+- [Vulkan Descriptor Indexing for Mobile](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/vulkan-descriptor-indexing)
+- [OurMachinery's Moving The Machinery to Bindless](https://ourmachinery.com/post/moving-the-machinery-to-bindless/Memory)
+- [Wicked Engine: Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
+- [DethRaid's Vulkan Descriptor Indexing](https://gist.github.com/DethRaid/0171f3cfcce51950ee4ef96c64f59617)
+- [A note on Descriptor Indexing](https://chunkstories.xyz/blog/a-note-on-descriptor-indexing/)
 
 #### Sychronization
+- [TheMaister's Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 - [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
 - [Vulkan Timeline Semaphores](https://www.khronos.org/blog/vulkan-timeline-semaphores)
 
@@ -352,6 +358,13 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### DirectX 12
 - [Learning DirectX 12](https://www.3dgep.com/learning-directx-12-1/) - Tutorial series from 3dgep.com
+- [Direct3D 12 programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)
+
+#### Resource Binding & Bindless
+- [Resource Binding - Direct3D 12 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/resource-binding)
+- [Bindless Texturing for Deferred Rendering and Decals](https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/)
+- [Binding Bindlessly](https://alextardif.com/Bindless.html)
+- [Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 
 ### WebGL
 - [Awesome WebGL](https://project-awesome.org/sjfricke/awesome-webgl)
