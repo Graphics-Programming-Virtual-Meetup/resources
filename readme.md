@@ -163,7 +163,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074)
 
 ### Algortihms
-- ["Monte Carlo Methods for Light Transport Simulation"](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning PhD thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
+- [Bidirectional Estimators for Light Transport](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf)
+- [Monte Carlo Methods for Light Transport Simulation](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning PhD thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
 
 ### BVH
 - [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) - Excellent overview paper
