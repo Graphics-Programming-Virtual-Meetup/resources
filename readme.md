@@ -163,6 +163,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) - Excellent overview paper
 - [bvh - A modern C++ BVH construction and traversal library](https://github.com/madmann91/bvh)
 ### Variance Reduction
+- 🎥 [Lecture 19: Variance Reduction (CMU 15-462/662)](https://youtu.be/IQhLk_XaFc8)
 - [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 
 ### Intersection
