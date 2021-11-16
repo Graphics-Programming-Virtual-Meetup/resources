@@ -160,12 +160,16 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html)
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 
+### Algortihms
+- ["Monte Carlo Methods for Light Transport Simulation"](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning PhD thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
+
 ### BVH
 - [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) - Excellent overview paper
 - [bvh - A modern C++ BVH construction and traversal library](https://github.com/madmann91/bvh)
 
-### Sampling
+### Sampling & Variance Reduction
 - 🎥 [Lecture 19: Variance Reduction (CMU 15-462/662)](https://youtu.be/IQhLk_XaFc8)
+- [Stratified Sampling of Spherical Triangles](http://www.graphics.cornell.edu/pubs/1995/Arv95c.pdf)
 - [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 
 ### Intersection
@@ -286,6 +290,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ## Sampling
 - [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - classic paper
 - [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
+- [Computing the Discrepancy with Applications to Supersampling Patterns](http://mentallandscape.com/Papers_tog96.pdf)
+- [Generating Antialiased Images at Low Sampling Densities](http://mentallandscape.com/Papers_siggraph87.pdf)
 
 ## Animation
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
