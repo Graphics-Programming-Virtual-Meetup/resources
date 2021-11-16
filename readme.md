@@ -289,6 +289,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
 
 ## Sampling
+also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reduction)
 - [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - classic paper
 - [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
 - [Computing the Discrepancy with Applications to Supersampling Patterns](http://mentallandscape.com/Papers_tog96.pdf)
