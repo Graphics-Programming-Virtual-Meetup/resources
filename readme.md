@@ -159,10 +159,12 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Physically Based Rendering: From Theory To Implementation Third Edition](https://www.pbr-book.org/)
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html)
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
+
 ### BVH
 - [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) - Excellent overview paper
 - [bvh - A modern C++ BVH construction and traversal library](https://github.com/madmann91/bvh)
-### Variance Reduction
+
+### Sampling
 - 🎥 [Lecture 19: Variance Reduction (CMU 15-462/662)](https://youtu.be/IQhLk_XaFc8)
 - [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 
@@ -331,7 +333,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 #### Bindless/Descriptor indexing
 - 🎥 [Khronos Talk on Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
 - [Vulkan Descriptor Indexing for Mobile](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/vulkan-descriptor-indexing)
-- [OurMachinery's Moving The Machinery to Bindless](https://ourmachinery.com/post/moving-the-machinery-to-bindless/Memory)
+- [OurMachinery's Moving The Machinery to Bindless](https://ourmachinery.com/post/moving-the-machinery-to-bindless)
 - [Wicked Engine: Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 - [DethRaid's Vulkan Descriptor Indexing](https://gist.github.com/DethRaid/0171f3cfcce51950ee4ef96c64f59617)
 - [A note on Descriptor Indexing](https://chunkstories.xyz/blog/a-note-on-descriptor-indexing/)
