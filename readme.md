@@ -109,7 +109,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Awesome Gamedev](https://github.com/ellisonleao/magictools)  - lots of graphics related stuff
 - [Physics-Based Animation](http://www.physicsbasedanimation.com/) - learning resources and papers
+- [Digital Morphogenesis Resources - Info About Some Different Simulation Techniques](https://github.com/jasonwebb/morphogenesis-resources)
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
+
 
 ## Overview
 ### Books
