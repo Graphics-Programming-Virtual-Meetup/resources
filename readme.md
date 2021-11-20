@@ -403,6 +403,8 @@ also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### Game loop
 - [Game Loop - Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
+- Chapter 8 The Game Loop and Real-Time Simulation of [Game Engine Archirecture](https://www.gameenginebook.com/)
+
 ### Memory Allocation
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/) series
 - [Memory Management](https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management) section on Pbrt
