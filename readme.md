@@ -246,6 +246,10 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/)
 - [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
 
+### Text Rendering
+- [Learn OpenGL: Text Rendering](https://learnopengl.com/In-Practice/Text-Rendering)
+- [bitmap font renderer](https://jmickle66666666.github.io/blog/techart/2019/12/18/bitmap-font-renderer.html)
+
 ### Tessellation
 - [Tutorial 30: Basic Tessellation](https://ogldev.org/www/tutorial30/tutorial30.html) - Adds tutorial for Tessellation
 
@@ -278,9 +282,6 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Breaking Down Barriers](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 - [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
-
-### GPU-driven rendering
-- [GPU Driven Rendering - Siggraph 2015](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
 
 ### Parallel Algorithms
 - [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
@@ -317,6 +318,10 @@ also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### Libraries
 - [Geometry Central](https://geometry-central.net/) - a modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes
 
+## Physics and Simulation
+### Attractors
+- [Strange Attractors on the GPU series](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1?collection=@rreusser/writeups)
+
 ## APIs
 ### OpenGL
 - [docs.gl](http://docs.gl/) - OpenGL API Documentation
@@ -341,6 +346,9 @@ also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 
 #### Swapchain & frame resources
 - [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html) (there is no part 2)
+
+#### Renderpass & Dynamic Rendering
+- [Khrnos: Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes) - introduces the [VK_KHR_dynamic_rendering](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_dynamic_rendering.html) extension
 
 #### Bindless/Descriptor indexing
 - 🎥 [Khronos Talk on Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
@@ -389,7 +397,14 @@ also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 #### Tutorials
 - [Learn wgpu](https://sotrh.github.io/learn-wgpu/)
 
-## Programming
+## System Design
+### Renderer Architecture
+- 🎥 [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
+
+### GPU-driven rendering
+- [GPU Driven Rendering - Siggraph 2015](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
+
+## General Programming
 ### Meta-links
 - [Awesome C](https://project-awesome.org/inputsh/awesome-c#game-programming)
 - [Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
@@ -405,7 +420,7 @@ also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
 - Chapter 8 The Game Loop and Real-Time Simulation of [Game Engine Archirecture](https://www.gameenginebook.com/)
 
-### Memory Allocation
+### Memory Allocation & Management
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/) series
 - [Memory Management](https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management) section on Pbrt
 - The Memory chapter of [Game Engine Archirecture](https://www.gameenginebook.com/)
