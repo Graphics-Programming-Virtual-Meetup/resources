@@ -301,7 +301,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
 
 ## Sampling
-also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reduction)
+See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reduction)
 - [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - classic paper
 - [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
 - [Computing the Discrepancy with Applications to Supersampling Patterns](http://mentallandscape.com/Papers_tog96.pdf)
@@ -435,13 +435,19 @@ also see [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - 🎥 CppCon 2017: John Lakos “Local ('Arena') Memory Allocators [[Part1]](https://youtu.be/nZNd5FjSquk) [[Part2]](https://youtu.be/CFzuFNSpycI)
 - 🎥 [CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://youtu.be/kSWfushlvB8)
 
-## Tools
+## Tools/libraries
+
 ### Debuggers
 - [RenderDoc](https://renderdoc.org/)
 - [Nvidia Nsight Graphics](https://developer.nvidia.com/nsight-graphics)
 - [Radeon™ GPU Profiler (AMD)](https://github.com/GPUOpen-Tools/radeon_gpu_profiler)
 - [Intel® GPA](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html)
 - [SpectorJS (WebGL)](https://github.com/BabylonJS/Spector.js)
+
+### Denoiser
+- [Optix Denoiser](https://developer.nvidia.com/optix-denoiser)
+- [FidelityFX-Denoiser](https://github.com/GPUOpen-Effects/FidelityFX-Denoiser)
+- [Open Image AI Denoiser](https://github.com/OpenImageDenoise/oidn)
 
 ## Assets
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes
