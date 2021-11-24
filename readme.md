@@ -5,13 +5,9 @@ A hand-picked list of graphics programming resources by graphics programming vir
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow use on Twitter: https://twitter.com/GraphicsMeetup
-- Youtube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
+- YouTube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
-## Contribute
-
-Contributions welcome! To submit a PR, please first read the [contribution guidelines](contributing.md) first. You can also join our [Discord Server](https://discord.gg/TsTDb4uYfR) and make suggestions there.
-
-## Table of Contents
+## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
@@ -96,7 +92,7 @@ Contributions welcome! To submit a PR, please first read the [contribution guide
 Here is a list of resources suitable for beginners,
 though intermediate or advanced folks can also benefit from them.
 
-- [Learn OpenGL](https://learnopengl.com/) - learnopengl.com is the definitive resource for learning real-time renderer techniques as beginners. Even though it is an OpenGL tutorial, it also teaches rendering techniques at the same time.
+- [Learn OpenGL](https://learnopengl.com/) - Learn OpenGL is the definitive resource for learning real-time renderer techniques as beginners. Even though it is an OpenGL tutorial, it also teaches rendering techniques at the same time.
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/) - Those three short books explain basic concepts of path tracing and implement a software renderer from scratch.
 - 🎥 [CMU's introductory to Computer Graphics course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) -
 A comprehensive introduction to various topics in computer graphics.
@@ -425,12 +421,12 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### Game loop
 - [Game Loop - Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
-- Chapter 8 The Game Loop and Real-Time Simulation of [Game Engine Archirecture](https://www.gameenginebook.com/)
+- Chapter 8 The Game Loop and Real-Time Simulation of Game Engine Archirecture
 
 ### Memory Allocation & Management
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/) series
 - [Memory Management](https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management) section on Pbrt
-- The Memory chapter of [Game Engine Archirecture](https://www.gameenginebook.com/)
+- The Memory chapter of Game Engine Archirecture
 - [Object Pool](http://gameprogrammingpatterns.com/object-pool.html) chapter of Game Programming Pattern
 - 🎥 CppCon 2017: John Lakos “Local ('Arena') Memory Allocators [[Part1]](https://youtu.be/nZNd5FjSquk) [[Part2]](https://youtu.be/CFzuFNSpycI)
 - 🎥 [CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://youtu.be/kSWfushlvB8)
@@ -454,3 +450,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba and pbrt-v3 formats
+
+## Contribute
+
+Contributions welcome! To submit a PR, please first read the [contribution guidelines](contributing.md) first. You can also join our [Discord Server](https://discord.gg/TsTDb4uYfR) and make suggestions there.
