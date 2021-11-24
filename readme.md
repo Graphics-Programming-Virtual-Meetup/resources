@@ -374,7 +374,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Vulkan Subgroup tutorial. AKA wavefronts](https://www.khronos.org/blog/vulkan-subgroup-tutorial)
 
 #### Libraries
-- [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - Library that simplify the Vulkan initialization boilerplate.
+- [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - Library that simplifies the Vulkan initialization boilerplate.
 - [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Memory allocation library that simplifies Vulkan memory allocation and provides decent performance.
 - [volk](https://github.com/zeux/volk) - Meta-loader for Vulkan that allows you to dynamically load entrypoints required to use Vulkan. It also simplify the use of Vulkan extensions.
 - [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Can be used to extract descriptor and push constant information from SPIRV.
