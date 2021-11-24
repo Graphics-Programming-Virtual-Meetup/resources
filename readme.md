@@ -1,11 +1,11 @@
-# Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Graphics Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A hand-picked list of graphics programming resources maintained by graphics programming virtual meetup attendees.
 
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
-- Follow use on Twitter: https://twitter.com/GraphicsMeetup
-- YouTube Channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
+- Follow us on Twitter: https://twitter.com/GraphicsMeetup
+- YouTube channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 <!--lint disable double-link-->
 
