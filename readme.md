@@ -80,9 +80,11 @@ A hand-picked list of graphics programming resources by graphics programming vir
   - [High-level Programming](#high-level-programming)
   - [Game loop](#game-loop)
   - [Memory Allocation & Management](#memory-allocation--management)
-- [Tools](#tools)
+- [Tools/libraries](#toolslibraries)
   - [Debuggers](#debuggers)
+  - [Denoiser](#denoiser)
 - [Assets](#assets)
+- [Contribute](#contribute)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
