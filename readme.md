@@ -1,4 +1,4 @@
-# Awesome Graphics Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Graphics Programming Resources
 
 A hand-picked list of graphics programming resources maintained by graphics programming virtual meetup attendees.
 
@@ -6,8 +6,6 @@ A hand-picked list of graphics programming resources maintained by graphics prog
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow us on Twitter: https://twitter.com/GraphicsMeetup
 - YouTube channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
-
-<!--lint disable double-link-->
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -158,8 +156,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ## Ray Tracing
 ### Intro to Ray Tracing
-- [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) - Turner Whitted's original Ray Tracing paper.
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
+- [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) - Turner Whitted's original Ray Tracing paper.
 - 🎥 [Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction of importance sampling.
 
 ### Ray Tracing Books
@@ -169,7 +167,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) - An advanced book that focuses on light transport theory.
 
 ### Algortihms
-- [Bidirectional Estimators for Light Transport](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf)
+- [Bidirectional Estimators for Light Transport](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf) - Introduces *bidirectional path tracing*.
 - [Monte Carlo Methods for Light Transport Simulation](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning PhD thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
 
 ### BVH
@@ -430,9 +428,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Memory Allocation Strategies series](https://www.gingerbill.org/series/memory-allocation-strategies/)
 - [Memory Management section on Pbrt](https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management)
 - The Memory chapter of Game Engine Archirecture
-<!--lint disable awesome-list-item-->
 - [Object Pool](http://gameprogrammingpatterns.com/object-pool.html) chapter of Game Programming Pattern.
-<!--lint enable awesome-list-item-->
 - 🎥 CppCon 2017: John Lakos “Local ('Arena') Memory Allocators” [[Part1]](https://youtu.be/nZNd5FjSquk) [[Part2]](https://youtu.be/CFzuFNSpycI)
 - 🎥 [CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://youtu.be/kSWfushlvB8)
 
