@@ -1,6 +1,6 @@
 # Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A hand-picked list of graphics programming resources by graphics programming virtual meetup attendees
+A hand-picked list of graphics programming resources maintained by graphics programming virtual meetup attendees.
 
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
@@ -456,7 +456,3 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples.
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba and pbrt-v3 formats.
-
-## Contribute
-
-Contributions welcome! To submit a PR, please first read the [contribution guidelines](contributing.md) first. You can also join our [Discord Server](https://discord.gg/TsTDb4uYfR) and make suggestions there.
