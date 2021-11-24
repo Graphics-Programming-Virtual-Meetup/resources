@@ -137,7 +137,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [immersive linear algebra](http://immersivemath.com/ila/index.html) - Free online book with interactive figures.
 - [Mathematics for Computer Graphics](https://www.amazon.com/Mathematics-Computer-Graphics-Undergraduate-Science/dp/1447173341)
 - [Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition](https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869)
-- [Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) - Introduces math routines with implementations. It also touchs grassman algebra.
+- [Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) - Introduces math routines with implementations. It also touchs Grassman algebra.
 
 ### Homogeneous Coordinate
 - [A trip down the graphics pipeline: the homogeneous perspective transform](https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf)
@@ -146,27 +146,27 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Gimbal lock confusion - Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/questions/12273/gimbal-lock-confusion)
 
 ### Geometric Algebra
-- [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
+- [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/) - Introduces *Rotors* in Geometric Algebra.
 
 ### Curves and Surfaces
 - 🎥 [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
 
 ### Implementing Math Library
 - [On Vector Math Libraries](https://www.reedbeta.com/blog/on-vector-math-libraries/)
-- [GDC18 - Linear Algebra Upgraded](http://www.terathon.com/gdc18_lengyel.pdf)
-- 🎥 [CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”](https://www.youtube.com/watch?v=8FoAxasNssA)
+- [GDC18 - Linear Algebra Upgraded](http://www.terathon.com/gdc18_lengyel.pdf) - Designs an affine space type library with distinct vector and point types, and also uses template and union hacks to implement vector swizzling in C++.
+- 🎥 [CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”](https://www.youtube.com/watch?v=8FoAxasNssA) - Also implemented swizzling with similar techniques.
 
 ## Ray Tracing
 ### Intro to Ray Tracing
 - [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) - Turner Whitted's original Ray Tracing paper.
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
-- 🎥 [Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction of importance sampling
+- 🎥 [Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction of importance sampling.
 
 ### Ray Tracing Books
-- [Physically Based Rendering: From Theory To Implementation Third Edition](https://www.pbr-book.org/)
-- [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html)
+- [Physically Based Rendering: From Theory To Implementation Third Edition](https://www.pbr-book.org/) - The definitive book for offline rendering.
+- [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Like other "gems" book, it contains standalone chapters on various ray tracing topics.
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
-- [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074)
+- [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) - An advanced book that focuses on light transport theory.
 
 ### Algortihms
 - [Bidirectional Estimators for Light Transport](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf)
@@ -174,7 +174,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### BVH
 - [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) - Excellent overview paper on BVH.
-- [bvh - A modern C++ BVH construction and traversal library](https://github.com/madmann91/bvh)
+- [bvh - A modern C++ BVH construction and traversal library](https://github.com/madmann91/bvh) - Implements various algorithms for BVH traversal and construction.
 
 ### Sampling & Variance Reduction
 - 🎥 [Lecture 19: Variance Reduction (CMU 15-462/662)](https://youtu.be/IQhLk_XaFc8)
@@ -244,9 +244,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Line, Edge, and Outline Drawing
 #### Triangulated line
-- [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
-- [Instanced Line Rendering Part I](https://wwwtyro.net/2019/11/18/instanced-lines.html)
-- [Instanced Line Rendering Part II: Alpha blending](https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html)
+- [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Summarizes the problem of GPU line primitives and introduces techniques for drawing triangulated lines.
+- [Instanced Line Rendering Part I](https://wwwtyro.net/2019/11/18/instanced-lines.html) - Builds on the foundation from "Drawing Lines is Hard" and uses instance rendering to draw lines.
+- [Instanced Line Rendering Part II: Alpha blending](https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html) - Continue of the above article, and introduces a way to do alpha-blending with triangulated lines.
 
 #### Outline
 - [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/)
@@ -260,8 +260,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Tutorial 30: Basic Tessellation](https://ogldev.org/www/tutorial30/tutorial30.html)
 
 ## PBR
-- [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
+- [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
 - [Everything (or most things) wrong with learnopengl.com/PBR/Theory](https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit)
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
@@ -282,8 +282,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 
 ### GPU Architecture
-- [CIS 565 GPU Programming and Architecture](http://cis565-fall-2021.github.io/)
-- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+- 🎥 [CIS 565 GPU Programming and Architecture](http://cis565-fall-2021.github.io/) - A course that introduce parallel programming with a Computer Graphics flavor.
+- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) - This article summarizes some lower level aspect of how GPU executes. It uses the Vulkan API terminology, but the concept is largely platform independent.
 - [GCN – two ways of latency hiding and wave occupancy](https://bartwronski.com/2014/03/27/gcn-two-ways-of-latency-hiding-and-wave-occupancy/)
 - [Breaking Down Barriers](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
@@ -401,7 +401,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### WebGPU
 - [Spec](https://gpuweb.github.io/gpuweb/)
 #### Tutorials
-- [Learn wgpu](https://sotrh.github.io/learn-wgpu/)
+- [Learn wgpu](https://sotrh.github.io/learn-wgpu/) - Tutorial of WebGPU api using Rust and the wgpu library.
 
 ## System Design
 ### Renderer Architecture
@@ -424,7 +424,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### Game loop
 - [Game Loop - Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
-- Chapter 8 The Game Loop and Real-Time Simulation of Game Engine Archirecture
+- Chapter 8 "The Game Loop and Real-Time Simulation" of Game Engine Archirecture
 
 ### Memory Allocation & Management
 - [Memory Allocation Strategies series](https://www.gingerbill.org/series/memory-allocation-strategies/)
