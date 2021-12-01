@@ -242,6 +242,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Transparency
 - [Learn OpenGL: OIT](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction)
 - [Compositing digital images](https://graphics.pixar.com/library/Compositing/paper.pdf)
+- [Visual glBlendFunc + glBlendEquation Tool](https://www.andersriggelsen.dk/glblendfunc.php)
 
 ### Ray Marching and SDF
 - [Graphics Codex: Ray Marching](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_rayMrch)
