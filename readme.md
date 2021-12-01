@@ -231,6 +231,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Transparency
 - [Learn OpenGL: OIT](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction)
+- [Compositing digital images](https://graphics.pixar.com/library/Compositing/paper.pdf)
 
 ### Ray Marching and SDF
 - [Graphics Codex: Ray Marching](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_rayMrch)
@@ -256,6 +257,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Tessellation
 - [Tutorial 30: Basic Tessellation](https://ogldev.org/www/tutorial30/tutorial30.html)
+
+### Voxel Rendering
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace)
 
 ## PBR
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
@@ -361,6 +365,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Wicked Engine: Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 - [DethRaid's Vulkan Descriptor Indexing](https://gist.github.com/DethRaid/0171f3cfcce51950ee4ef96c64f59617)
 - [A note on Descriptor Indexing](https://chunkstories.xyz/blog/a-note-on-descriptor-indexing/)
+- [Vulkan Pills 1: Bindless Textures](https://jorenjoestar.github.io/post/vulkan_bindless_texture/)
 
 #### Sychronization
 - [TheMaister's Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
@@ -450,4 +455,4 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes.
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples.
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
-- [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba and pbrt-v3 formats.
+- [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
