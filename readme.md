@@ -341,6 +341,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ## APIs
 ### OpenGL
 - [docs.gl](http://docs.gl/) - OpenGL API Documentation.
+- [GLConstantsTranslator](https://javagl.github.io/GLConstantsTranslator/GLConstantsTranslator.html) - This page has the names of most OpenGL constants with their respective decimal and hex values. It is useful for when certain functions return GL constants.
 
 #### Tutorials
 - [Learn OpenGL](https://learnopengl.com/) - The highly recommended tutorial.
