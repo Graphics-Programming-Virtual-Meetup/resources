@@ -154,6 +154,14 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [GDC18 - Linear Algebra Upgraded](http://www.terathon.com/gdc18_lengyel.pdf) - Designs an affine space type library with distinct vector and point types, and also uses template and union hacks to implement vector swizzling in C++.
 - 🎥 [CppCon 2018: Valentin Galea “Rapid Prototyping of Graphics Shaders in Modern C++”](https://www.youtube.com/watch?v=8FoAxasNssA) - Also implemented swizzling with similar techniques.
 
+### Circular/Spherical harmonics
+- [Circular Harmonics: Digging in circles](https://valdes.cc/articles/ch.html)
+- [Spherical Harmonics in Graphics: A Brief Overview](https://gen-graphics.blogspot.com/2017/11/spherical-harmonics-in-graphics-brief.html)
+- [Spherical Harmonic Lighting](https://simonstechblog.blogspot.com/2011/12/spherical-harmonic-lighting.html)
+- [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf)
+- [Spherical Harmonic Lighting: The Gritty Details](http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf)
+- []
+
 ## Ray Tracing
 ### Intro to Ray Tracing
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
