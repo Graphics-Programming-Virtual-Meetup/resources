@@ -162,7 +162,6 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Spherical Harmonic Lighting](https://simonstechblog.blogspot.com/2011/12/spherical-harmonic-lighting.html)
 - [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf)
 - [Spherical Harmonic Lighting: The Gritty Details](http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf)
-- []
 
 ## Ray Tracing
 ### Intro to Ray Tracing
@@ -272,6 +271,15 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Voxel Rendering
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace)
 
+### Volume Rendering
+- [Structured Volume Sampling](https://github.com/huwb/volsample) - MIT-licensed implementation of Structured Volume Sampling technique, along with simple framework for comparing other techniques.
+
+### Dithering
+- [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - describe a novel algorithm for ordered dithering based on an arbitrary palette
+
+### Texture Compression
+- [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/) - describes a family of lossy hardware-based texture compression formats called BCn
+
 ## PBR
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
@@ -279,6 +287,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
+- [Basics of physically-based rendering](https://www.researchgate.net/publication/262326548_Basics_of_physically-based_rendering)
 
 ## Shader Programming
 - [The Book of Shaders](https://thebookofshaders.com/)
@@ -440,6 +449,9 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Game Loop - Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
 - Chapter 8 "The Game Loop and Real-Time Simulation" of Game Engine Archirecture
+
+### Floating-point numbers
+- [Floating-point in mobile shaders](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
 
 ### Memory Allocation & Management
 - [Memory Allocation Strategies series](https://www.gingerbill.org/series/memory-allocation-strategies/)
