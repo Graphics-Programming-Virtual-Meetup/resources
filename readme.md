@@ -253,9 +253,6 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Distant functions for primitives - Inigo Quilez](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 - [soft shadows in raymarched SDFs - 2010](https://www.iquilezles.org/www/articles/rmshadows/rmshadows.htm)
 
-### Mipmapping
-- [Pyramidal Parametrics](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf) - The original Mipmap paper.
-
 ### Line, Edge, and Outline Drawing
 #### Triangulated line
 - [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard) - Summarizes the problem of GPU line primitives and introduces techniques for drawing triangulated lines.
@@ -282,9 +279,6 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Dithering
 - [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - describe a novel algorithm for ordered dithering based on an arbitrary palette
 
-### Texture Compression
-- [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/) - describes a family of lossy hardware-based texture compression formats called BCn
-
 ## PBR
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
@@ -293,6 +287,16 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
 - [Basics of physically-based rendering](https://www.researchgate.net/publication/262326548_Basics_of_physically-based_rendering)
+
+## Textures
+### Mipmapping
+- [Pyramidal Parametrics](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf) - The original Mipmap paper.
+
+### Texture Compression
+- [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/) - describes a family of lossy hardware-based texture compression formats called BCn
+
+### Texture Bombing
+- [GPU Gems Chapter 20. Texture Bombing](https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch20.html)
 
 ## Shader Programming
 - [The Book of Shaders](https://thebookofshaders.com/)
@@ -474,6 +478,12 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Radeon™ GPU Profiler (AMD)](https://github.com/GPUOpen-Tools/radeon_gpu_profiler)
 - [Intel® GPA](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html)
 - [SpectorJS (WebGL)](https://github.com/BabylonJS/Spector.js)
+
+### Profilers
+A bunch of graphics debuggers above also have profiling capability.
+- [Optick: C++ Profiler For Games](https://github.com/bombomby/optick)
+- [Tracy Profiler](https://github.com/wolfpld/tracy
+- [Dear Imgui profiler widget](https://github.com/Raikiri/LegitProfiler)
 
 ### Denoiser
 - [Optix Denoiser](https://developer.nvidia.com/optix-denoiser)
