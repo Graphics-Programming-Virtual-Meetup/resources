@@ -489,7 +489,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### Profilers
 A bunch of graphics debuggers above also have profiling capability.
 - [Optick: C++ Profiler For Games](https://github.com/bombomby/optick)
-- [Tracy Profiler](https://github.com/wolfpld/tracy
+- [Tracy Profiler](https://github.com/wolfpld/tracy)
 - [Dear Imgui profiler widget](https://github.com/Raikiri/LegitProfiler)
 
 ### Denoiser
