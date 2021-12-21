@@ -300,6 +300,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Texture Bombing
 - [GPU Gems Chapter 20. Texture Bombing](https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch20.html)
+- [Texture bombing 3 samples](https://www.shadertoy.com/view/4tyGWK) - a shader from Inigo Quilez (modified by huwb) that shows how to perform the GPU Gems technique using 3 texture samples instead of 4! 
+- [On Histogram-Preserving Blending for Randomized Texture Tiling](https://jcgt.org/published/0008/04/02/) - attempts to resolve artifacts you get when blending two textures together (also only using 3 texture samples, plus a lookup table per texture
 
 ## Shader Programming
 - [The Book of Shaders](https://thebookofshaders.com/)
