@@ -53,6 +53,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [Voxel Rendering](#voxel-rendering)
   - [Volume Rendering](#volume-rendering)
   - [Dithering](#dithering)
+  - [Sprite Rendering](#sprite-rendering)
 - [PBR](#pbr)
 - [Textures](#textures)
   - [Mipmapping](#mipmapping)
