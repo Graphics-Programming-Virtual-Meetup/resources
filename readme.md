@@ -284,6 +284,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Dithering
 - [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - describe a novel algorithm for ordered dithering based on an arbitrary palette
 
+### Sprite Rendering
+- [Modern (Bindless) Sprite Batch for Vulkan (and more!)](https://jorenjoestar.github.io/post/modern_sprite_batch/)
+
 ## PBR
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
