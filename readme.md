@@ -459,6 +459,10 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### GPU-driven rendering
 - [GPU Driven Rendering - Siggraph 2015](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
 
+## Assets Format
+## Scene Description
+- [Siggraph 2019 Hydra](https://graphics.pixar.com/usd/files/Siggraph2019_Hydra.pdf) - Presentation slides for Hydra, which is an open source framework to transport live scene graph data to renderers.
+
 ## General Programming
 ### Meta-links
 - [Awesome C](https://project-awesome.org/inputsh/awesome-c#game-programming)
