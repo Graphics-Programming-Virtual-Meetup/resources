@@ -18,6 +18,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
 - [Overview](#overview)
   - [Books](#books)
   - [Courses](#courses)
+- [Career Advice](#career-advice)
 - [Math](#math)
   - [Tutorials](#tutorials)
   - [Books](#books-1)
