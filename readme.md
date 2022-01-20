@@ -374,6 +374,10 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
 
 ## Physics and Simulation
+### Physics-Based Animation
+- 🎥 [SIGGRAPH University 2019 Course - An Introduction to Physics-Based Animation](https://youtu.be/b_WJ-HwalwU) - A three-hour fast-pace introduction to Physics-Based Animation
+- 🎥 [CSC417/CSC2549-Physics-based Animation Fall 2021](https://youtube.com/playlist?list=PLTkE7n2CwG_PH09_q0Q7ttjqE2F9yGeM3) - Introductory lecture for a course in physics-based animation.
+
 ### Attractors
 - [Strange Attractors on the GPU series](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1?collection=@rreusser/writeups)
 
