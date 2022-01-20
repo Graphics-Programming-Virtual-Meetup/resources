@@ -83,6 +83,8 @@ A hand-picked list of graphics programming resources maintained by graphics prog
 - [System Design](#system-design)
   - [Renderer Architecture](#renderer-architecture)
   - [GPU-driven rendering](#gpu-driven-rendering)
+- [Assets Format](#assets-format)
+- [Scene Description](#scene-description)
 - [General Programming](#general-programming)
   - [Meta-links](#meta-links-1)
   - [Engine Development](#engine-development)
