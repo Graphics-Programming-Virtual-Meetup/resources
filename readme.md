@@ -73,6 +73,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [Iso-surface methods](#iso-surface-methods)
   - [Libraries](#libraries)
 - [Physics and Simulation](#physics-and-simulation)
+  - [Physics-Based Animation](#physics-based-animation)
   - [Attractors](#attractors)
 - [APIs](#apis)
   - [OpenGL](#opengl)
