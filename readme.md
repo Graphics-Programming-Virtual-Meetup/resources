@@ -172,6 +172,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 
 ### Circular/Spherical harmonics
 - [Circular Harmonics: Digging in circles](https://valdes.cc/articles/ch.html)
+- [Spherical Harmonics for Beginners](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/) - Cover the fundamentals of using Spherical Harmonics without delving into the math deeply
 - [Spherical Harmonics in Graphics: A Brief Overview](https://gen-graphics.blogspot.com/2017/11/spherical-harmonics-in-graphics-brief.html)
 - [Spherical Harmonic Lighting](https://simonstechblog.blogspot.com/2011/12/spherical-harmonic-lighting.html)
 - [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf)
