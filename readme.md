@@ -348,6 +348,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ## Color, HDR, and Tone Mapping
 - [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
 - [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
+- [Tone Mapping](https://64.github.io/tonemapping/) - Introduces the theory of Tone Mapping and talks about some commonly used Tone Mapping Operators
+
 
 ## Sampling
 See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reduction)
