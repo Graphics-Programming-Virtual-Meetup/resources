@@ -436,6 +436,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Vulkan Diagram](https://github.com/David-DiGioia/vulkan-diagrams)
 
 ### DirectX 12
+- [Reader Question Answered 1 - Learning D3D12](https://www.jendrikillner.com/post/d3d12-learning-plan/) - A roadmap for learning DirectX 12
 - [Raw DirectX 12](https://alain.xyz/blog/raw-directx12) - An introduction to writing a simple Hello Triangle DirectX 12 application.
 - [Learning DirectX 12](https://www.3dgep.com/learning-directx-12-1/)
 - [Direct3D 12 programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)
