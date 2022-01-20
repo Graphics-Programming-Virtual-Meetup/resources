@@ -124,7 +124,6 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Digital Morphogenesis Resources - Info About Some Different Simulation Techniques](https://github.com/jasonwebb/morphogenesis-resources)
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
 
-
 ## Overview
 ### Books
 - [Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html) - Free book that contains chapters on physically-based shading and rendering, coding projects, and reference pages.
@@ -135,6 +134,10 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [CMU's introductory to Computer Graphics course](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 - [6.837: Introduction to Computer Graphics (fall 2020)](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 - [Introduction to Computer Graphics - Cem Yuksel](https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
+
+## Career Advice
+- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) - Presents a high level overview of the rendering world and resources for getting started in the different specializations
+- [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/) - An in-depth analysis of the interview process for experienced developers
 
 ## Math
 
@@ -430,6 +433,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Vulkan Diagram](https://github.com/David-DiGioia/vulkan-diagrams)
 
 ### DirectX 12
+- [Raw DirectX 12](https://alain.xyz/blog/raw-directx12) - An introduction to writing a simple Hello Triangle DirectX 12 application.
 - [Learning DirectX 12](https://www.3dgep.com/learning-directx-12-1/)
 - [Direct3D 12 programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)
 
