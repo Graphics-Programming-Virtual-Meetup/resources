@@ -296,6 +296,10 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Sprite Rendering
 - [Modern (Bindless) Sprite Batch for Vulkan (and more!)](https://jorenjoestar.github.io/post/modern_sprite_batch/)
 
+### Atmosphere Scattering
+- [Precomputed Atmospheric Scattering](https://hal.inria.fr/inria-00288758/document)
+- [Precomputed Atmospheric Scattering: a New Implementation](https://ebruneton.github.io/precomputed_atmospheric_scattering/)
+
 ## PBR
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
@@ -395,6 +399,9 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 #### Meta-links
 - [Awesome OpenGL](https://project-awesome.org/eug/awesome-opengl) - Curated List for OpenGL.
 
+#### Best Practices
+- [Using Modern OpenGL to Avoid Common Errors](https://juandiegomontoya.github.io/modern_opengl.html) - Talks about using features of post-4.2 OpenGL
+
 ### Vulkan
 - [Spec](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html) - It is a good idea to keep it open while doing Vulkan Programming.
 #### Tutorials
@@ -411,6 +418,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html) (there is no part 2)
 
 #### Renderpass & Dynamic Rendering
+- [VK_KHR_dynamic_rendering tutorial](https://lesleylai.info/en/vk-khr-dynamic-rendering/) - A tutorial to Vulkan's dynamic rendering extension
 - [Khrnos: Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes) - Introduces the [VK_KHR_dynamic_rendering](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_dynamic_rendering.html) extension.
 
 #### Bindless/Descriptor indexing
