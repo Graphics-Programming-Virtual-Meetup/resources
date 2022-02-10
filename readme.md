@@ -55,6 +55,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [Volume Rendering](#volume-rendering)
   - [Dithering](#dithering)
   - [Sprite Rendering](#sprite-rendering)
+  - [Atmosphere Scattering](#atmosphere-scattering)
 - [PBR](#pbr)
 - [Textures](#textures)
   - [Mipmapping](#mipmapping)
