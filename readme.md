@@ -90,6 +90,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
 - [General Programming](#general-programming)
   - [Meta-links](#meta-links-1)
   - [Engine Development](#engine-development)
+  - [Performance Optimization](#performance-optimization)
   - [High-level Programming](#high-level-programming)
   - [Game loop](#game-loop)
   - [Floating-point numbers](#floating-point-numbers)
