@@ -492,6 +492,8 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Game Engine Archirecture](https://www.gameenginebook.com/) (paid book)
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It?](https://therealmjp.github.io/posts/shader-permutations-part2/)
+### Performance Optimization
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - This book contains of great info on getting the best performance through looking at the actual hardware.
 ### High-level Programming
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 ### Game loop
