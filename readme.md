@@ -533,8 +533,14 @@ A bunch of graphics debuggers above also have profiling capability.
 - [FidelityFX-Denoiser](https://github.com/GPUOpen-Effects/FidelityFX-Denoiser)
 - [Open Image AI Denoiser](https://github.com/OpenImageDenoise/oidn)
 
-## Assets
+## Polygonal Model Assets
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes.
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples.
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
+- [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/) - Some assets of satelites, celestial bodies, etc. Various formats.
+
+## Voxel Data Resources
+- [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their colleciton of publications.
+- [Open Scientific Visualization Datasets](https://klacansky.com/open-scivis-datasets/) - Large collection of CT scans of various objects.
+- [Stanford Volume Archive](https://www-graphics.stanford.edu/data/voldata/) - Several volume datasets (CT/MRI).
