@@ -99,7 +99,8 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [Debuggers](#debuggers)
   - [Profilers](#profilers)
   - [Denoiser](#denoiser)
-- [Assets](#assets)
+- [Polygonal Model Assets](#polygonal-model-assets)
+- [Voxel Data Resources](#voxel-data-resources)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
