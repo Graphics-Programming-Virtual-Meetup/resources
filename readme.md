@@ -540,6 +540,7 @@ A bunch of graphics debuggers above also have profiling capability.
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
 - [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/) - Some assets of satelites, celestial bodies, etc. Various formats.
+- [Three Dimensional Scans of Statues, etc](https://threedscans.com/)
 
 ## Voxel Data Resources
 - [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their colleciton of publications.
