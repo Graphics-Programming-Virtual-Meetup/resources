@@ -187,7 +187,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
 - [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) - Turner Whitted's original Ray Tracing paper.
 - 🎥 [Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction of importance sampling.
-
+- [Global Illumination Compendium](https://www.ii.uni.wroc.pl/~anl/cgfiles/TotalCompendium.pdf) - overview of ray tracing / path tracing techniques. 
 ### Ray Tracing Books
 - [Physically Based Rendering: From Theory To Implementation Third Edition](https://www.pbr-book.org/) - The definitive book for offline rendering.
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Like other "gems" book, it contains standalone chapters on various ray tracing topics.
