@@ -541,6 +541,7 @@ A bunch of graphics debuggers above also have profiling capability.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
 - [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/) - Some assets of satelites, celestial bodies, etc. Various formats.
 - [Three Dimensional Scans](https://threedscans.com/) - some three dimensional scans of animals and statues. 
+- [The Base Mesh](https://thebasemesh.com/) - CC0 mesh collection
 
 ## Voxel Data Resources
 - [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their colleciton of publications.
