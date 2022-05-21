@@ -540,7 +540,8 @@ A bunch of graphics debuggers above also have profiling capability.
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
 - [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/) - Some assets of satelites, celestial bodies, etc. Various formats.
-- [Three Dimensional Scans](https://threedscans.com/) - some three dimensional scans of animals and statues. 
+- [Three Dimensional Scans](https://threedscans.com/) - some three dimensional scans of animals and statues.
+- [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) - informal acknowledgement/nondefacement of cultural symbols license 
 - [The Base Mesh](https://thebasemesh.com/) - CC0 mesh collection
 - [PolyHaven](https://polyhaven.com/) - Public 3d asset library, also CC0
 
