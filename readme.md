@@ -225,6 +225,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [Creative Use of GPU Fixed-Function Hardware](https://asawicki.info/news_1745_creative_use_of_gpu_fixed-function_hardware)
 
+### Culling
+- [Nvidia's gl_occlusion_culling example](https://github.com/nvpro-samples/gl_occlusion_culling)
+
 ### Software Rasterization
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A short tutorial on writing a software rasterizer. Be careful that the tutorial has some rough edges.
 - [A Parallel Algorithm for Polygon Rasterization](https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf)
