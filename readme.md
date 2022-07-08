@@ -31,6 +31,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
 - [Ray Tracing](#ray-tracing)
   - [Intro to Ray Tracing](#intro-to-ray-tracing)
   - [Ray Tracing Books](#ray-tracing-books)
+  - [Ray Tracing Courses](#ray-tracing-courses)
   - [Algortihms](#algortihms)
   - [BVH](#bvh)
   - [Sampling & Variance Reduction](#sampling--variance-reduction)
