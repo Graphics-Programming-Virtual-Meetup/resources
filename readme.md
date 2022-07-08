@@ -125,6 +125,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Volumetric Clouds Resources List](https://gist.github.com/pixelsnafu/e3904c49cbd8ff52cb53d95ceda3980e)
 - [graphics resources](https://github.com/mattdesl/graphics-resources)
 - [Awesome Computer Graphics](https://github.com/luisnts/awesome-computer-graphics)
+- [Fun with Computer Graphics](https://github.com/zheng95z/fun-with-computer-graphics)
 - [Awesome Graphics Libraries - engines & frameworks](https://github.com/jslee02/awesome-graphics-libraries)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Awesome Gamedev](https://github.com/ellisonleao/magictools) - Lots of graphics related stuff.
@@ -196,7 +197,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) - An advanced book that focuses on light transport theory.
 
 ### Ray Tracing Courses
-- [Rendering Algorithms (Fall21)](https://cs87-dartmouth.github.io/Fall2021/) - The course nicely fills the gap between a Ray Tracing in One Weekend style toy renderer to a more general and fully-fledged renderer that PBRT describes.
+- [Dartmouth Rendering Algorithms (Fall21)](https://cs87-dartmouth.github.io/Fall2021/) - The course nicely fills the gap between a Ray Tracing in One Weekend style toy renderer to a more general and fully-fledged renderer that PBRT describes.
 
 ### Algortihms
 - [Bidirectional Estimators for Light Transport](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf) - Introduces *bidirectional path tracing*.
