@@ -195,6 +195,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) - An advanced book that focuses on light transport theory.
 
+### Ray Tracing Courses
+- [Rendering Algorithms (Fall21)](https://cs87-dartmouth.github.io/Fall2021/) - The course nicely fills the gap between a Ray Tracing in One Weekend style toy renderer to a more general and fully-fledged renderer that PBRT describes.
+
 ### Algortihms
 - [Bidirectional Estimators for Light Transport](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf) - Introduces *bidirectional path tracing*.
 - [Monte Carlo Methods for Light Transport Simulation](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning PhD thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
