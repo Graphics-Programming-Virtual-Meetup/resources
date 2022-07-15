@@ -185,6 +185,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf)
 - [Spherical Harmonic Lighting: The Gritty Details](http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf)
 
+### Geometry
+- [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
+
 ## Ray Tracing
 ### Intro to Ray Tracing
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
