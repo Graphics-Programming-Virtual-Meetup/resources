@@ -194,7 +194,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
 - [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) - Turner Whitted's original Ray Tracing paper.
 - 🎥 [Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction of importance sampling.
-- [Global Illumination Compendium](https://www.ii.uni.wroc.pl/~anl/cgfiles/TotalCompendium.pdf) - overview of ray tracing / path tracing techniques. 
+- [Global Illumination Compendium](https://www.ii.uni.wroc.pl/~anl/cgfiles/TotalCompendium.pdf) - overview of ray tracing / path tracing techniques.
+- [Creating a physically-based path tracer](https://alexanderameye.github.io/notes/path-tracer/)
+
 ### Ray Tracing Books
 - [Physically Based Rendering: From Theory To Implementation Third Edition](https://www.pbr-book.org/) - The definitive book for offline rendering.
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Like other "gems" book, it contains standalone chapters on various ray tracing topics.
@@ -218,6 +220,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Distributing Monte Carlo Errors as a Blue Noise in Screen Space by Permuting Pixel Seeds Between Frames](https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf)
 - [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://belcour.github.io/blog/slides/2019-sampling-bluenoise/index.html)
 - [Rendering in Real Time with Spatiotemporal Blue Noise Textures](https://developer.nvidia.com/blog/rendering-in-real-time-with-spatiotemporal-blue-noise-textures-part-1/) series
+- [What is direct lighting (next event estimation) in a ray tracer?](https://psgraphics.blogspot.com/2022/01/what-is-direct-lighting-next-event.html)
 
 ### Intersection
 - [Static Object Intersections - Real Time Rendering Resource Page](https://www.realtimerendering.com/intersections.html) - A collection of intersection algorithms.
@@ -236,7 +239,11 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Creative Use of GPU Fixed-Function Hardware](https://asawicki.info/news_1745_creative_use_of_gpu_fixed-function_hardware)
 
 ### Culling
+- [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index/)
 - [Nvidia's gl_occlusion_culling example](https://github.com/nvpro-samples/gl_occlusion_culling)
+
+### Depth Buffer
+- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized)
 
 ### Software Rasterization
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A short tutorial on writing a software rasterizer. Be careful that the tutorial has some rough edges.
@@ -247,10 +254,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [High-Performance Software Rasterization on GPUs](https://users.aalto.fi/~laines9/publications/laine2011hpg_paper.pdf)
 - [Line Rasterization slides, MIT EECS 6.837, Teller and Durand](http://groups.csail.mit.edu/graphics/classes/6.837/F02/lectures/6.837-7_Line.pdf)
 
-## Graphics Techniques
+## Graphics Effects
 
-### Depth Buffer
-- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized)
 ### Normal Mapping
 - [Three Normal Mapping Techniques Explained For the Mathematically Uninclined](https://www.gamedeveloper.com/programming/three-normal-mapping-techniques-explained-for-the-mathematically-uninclined)
 - [Normal Mapping - Learn OpenGL](https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
@@ -259,6 +264,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Shadow Mapping - LearnOpenGL](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
 - [Percentage-Closer Soft Shadows](https://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
 - [Efficient Shadows from Many Lights](https://efficientshading.com/wp-content/uploads/s2015_shadows.pdf)
+- [Reflective Shadow Maps](https://ericpolman.com/2016/03/17/reflective-shadow-maps/)
 - [Experiments in Hybrid Raytraced Shadows](https://interplayoflight.wordpress.com/2021/05/15/experiments-in-hybrid-raytraced-shadows/)
 - 🎥 [Michał Olejnik - Raytraced Shadows in Call of Duty: Modern Warfare video presentation](https://www.youtube.com/watch?v=VXp-HEAw-l4)
 - [Using Blue Noise For Raytraced Soft Shadows](https://blog.demofox.org/2020/05/16/using-blue-noise-for-raytraced-soft-shadows/)
@@ -277,6 +283,10 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Learn OpenGL: OIT](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction)
 - [Compositing digital images](https://graphics.pixar.com/library/Compositing/paper.pdf)
 - [Visual glBlendFunc + glBlendEquation Tool](https://www.andersriggelsen.dk/glblendfunc.php)
+- Order independent transparency blog series
+  - [Part 1](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1/)
+  - [Part 2](https://interplayoflight.wordpress.com/2022/07/02/order-independent-transparency-part-2/)
+  - [Endgame](https://interplayoflight.wordpress.com/2022/07/10/order-independent-transparency-endgame/)
 
 ### Ray Marching and SDF
 - [Graphics Codex: Ray Marching](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_rayMrch)
@@ -315,6 +325,11 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Atmosphere Scattering
 - [Precomputed Atmospheric Scattering](https://hal.inria.fr/inria-00288758/document)
 - [Precomputed Atmospheric Scattering: a New Implementation](https://ebruneton.github.io/precomputed_atmospheric_scattering/)
+
+### Grass Rendering
+- [Responsive Real-Time Grass Rendering for General 3D Scenes](https://www.cg.tuwien.ac.at/research/publications/2017/JAHRMANN-2017-RRTG/JAHRMANN-2017-RRTG-draft.pdf)
+- [Procedural grass rendering - Outerra](https://outerra.blogspot.com/2012/05/procedural-grass-rendering.html) - Is an inspiration of the following talk
+- 🎥 [Procedural Grass in 'Ghost of Tsushima'](https://www.youtube.com/watch?v=Ibe1JBF5i5Y)
 
 ## PBR
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
@@ -365,18 +380,22 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
 - [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/)
 
+### Atomics
+- [CUDA Pro Tip: Optimized Filtering with Warp-Aggregated Atomics](https://developer.nvidia.com/blog/cuda-pro-tip-optimized-filtering-warp-aggregated-atomics/)
+
 ## Color, HDR, and Tone Mapping
 - [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
 - [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
 - [Tone Mapping](https://64.github.io/tonemapping/) - Introduces the theory of Tone Mapping and talks about some commonly used Tone Mapping Operators
 
 
-## Sampling
+## Sampling and anti-aliasing
 See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reduction)
 - [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - Classic paper on misconception of "a pixel is a little square." It also serves as an introduction to sampling.
 - [Basics of Image Resampling](https://entropymine.com/imageworsener/resample/)
 - [Computing the Discrepancy with Applications to Supersampling Patterns](http://mentallandscape.com/Papers_tog96.pdf)
 - [Generating Antialiased Images at Low Sampling Densities](http://mentallandscape.com/Papers_siggraph87.pdf)
+- [Temporal Anti Aliasing – Step by Step](https://ziyadbarakat.wordpress.com/2020/07/28/temporal-anti-aliasing-step-by-step/)
 
 ## Animation
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
@@ -435,7 +454,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 
 #### Renderpass & Dynamic Rendering
 - [VK_KHR_dynamic_rendering tutorial](https://lesleylai.info/en/vk-khr-dynamic-rendering/) - A tutorial to Vulkan's dynamic rendering extension
-- [Khrnos: Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes) - Introduces the [VK_KHR_dynamic_rendering](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_dynamic_rendering.html) extension.
+- [Khrnos: Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes) - Introduces the [VK_KHR_dynamic_rendering](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/VK_KHR_dynamic_rendering.html) extension.
 
 #### Bindless/Descriptor indexing
 - 🎥 [Khronos Talk on Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
@@ -490,11 +509,12 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ## System Design
 ### Renderer Architecture
 - 🎥 [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
+- [Efficently rendering glTF models](https://toji.github.io/webgpu-gltf-case-study/)
 
 ### GPU-driven rendering
 - [GPU Driven Rendering - Siggraph 2015](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
 
-## Assets Format
+
 ## Scene Description
 - [Siggraph 2019 Hydra](https://graphics.pixar.com/usd/files/Siggraph2019_Hydra.pdf) - Presentation slides for Hydra, which is an open source framework to transport live scene graph data to renderers.
 
