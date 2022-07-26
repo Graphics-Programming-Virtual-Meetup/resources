@@ -510,7 +510,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ## System Design
 ### Renderer Architecture
 - 🎥 [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
-- [Efficently rendering glTF models](https://toji.github.io/webgpu-gltf-case-study/)
+- [Efficently rendering glTF models](https://toji.github.io/webgpu-gltf-case-study/) - A case study on how to design a renderer under modern graphics APIs that can take diverse input
 
 ### GPU-driven rendering
 - [GPU Driven Rendering - Siggraph 2015](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
