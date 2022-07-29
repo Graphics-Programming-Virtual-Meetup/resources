@@ -339,6 +339,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
+<!-- markdown-link-check-disable-next-line -->
 - [Basics of physically-based rendering](https://www.researchgate.net/publication/262326548_Basics_of_physically-based_rendering)
 
 ## Textures
