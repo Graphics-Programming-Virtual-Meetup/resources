@@ -147,7 +147,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [6.837: Introduction to Computer Graphics (fall 2020)](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 - [Introduction to Computer Graphics - Cem Yuksel](https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 
-## Career Advice
+## Advices
+- [How to learn graphics programming (but not in a hurry): self-study edition](https://twitter.com/m_ninepoints/status/1215429886715629569?s=20&t=21KriGdpsMxtsS7WqkFstw) - A Twitter thread on how to learn graphics programming
 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) - Presents a high level overview of the rendering world and resources for getting started in the different specializations
 - [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/) - An in-depth analysis of the interview process for experienced developers
 
