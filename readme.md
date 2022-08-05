@@ -184,6 +184,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Circular Harmonics: Digging in circles](https://valdes.cc/articles/ch.html)
 - [Spherical Harmonics for Beginners](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/) - Cover the fundamentals of using Spherical Harmonics without delving into the math deeply
 - [Spherical Harmonics in Graphics: A Brief Overview](https://gen-graphics.blogspot.com/2017/11/spherical-harmonics-in-graphics-brief.html)
+- [Spherical Harmonics - Insights And Fundamentals](https://github.com/AlexSabourinDev/cranberry_blog/blob/master/SphericalHarmonics_Fundamentals.md)
 - [Spherical Harmonic Lighting](https://simonstechblog.blogspot.com/2011/12/spherical-harmonic-lighting.html)
 - [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf)
 - [Spherical Harmonic Lighting: The Gritty Details](http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf)
@@ -223,6 +224,8 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://belcour.github.io/blog/slides/2019-sampling-bluenoise/index.html)
 - [Rendering in Real Time with Spatiotemporal Blue Noise Textures](https://developer.nvidia.com/blog/rendering-in-real-time-with-spatiotemporal-blue-noise-textures-part-1/) series
 - [What is direct lighting (next event estimation) in a ray tracer?](https://psgraphics.blogspot.com/2022/01/what-is-direct-lighting-next-event.html)
+- [Much Ado About Sampling](https://www.jeremyong.com/math/monte%20carlo/2022/05/17/much-ado-about-sampling/)
+- [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.html) - combines RIS+MIS with reservoir sampling and demonstrates the reservoir merging capability to perform resampling across space and time
 
 ### Intersection
 - [Static Object Intersections - Real Time Rendering Resource Page](https://www.realtimerendering.com/intersections.html) - A collection of intersection algorithms.
@@ -376,6 +379,10 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Breaking Down Barriers](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 - [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
+- [RDNA Architecture Whitepaper](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
+- [AMU RDNA2 Performance guide](https://gpuopen.com/performance/)
+- [The Peak-Performance-Percentage Analysis Method for Optimizing Any GPU Workload](https://developer.nvidia.com/blog/the-peak-performance-analysis-method-for-optimizing-any-gpu-workload/)
+- [[video] All the Pipelines - Journey through the GPU](https://gpuopen.com/videos/graphics-pipeline/)
 
 ### Parallel Algorithms
 - [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
