@@ -148,7 +148,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Introduction to Computer Graphics - Cem Yuksel](https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 
 ## Advices
-- [How to learn graphics programming (but not in a hurry): self-study edition](https://twitter.com/m_ninepoints/status/1215429886715629569?s=20&t=21KriGdpsMxtsS7WqkFstw) - A Twitter thread on how to learn graphics programming
+- [How to learn graphics programming (but not in a hurry): self-study edition](https://twitter.com/m_ninepoints/status/1215429886715629569) - A Twitter thread on how to learn graphics programming
 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) - Presents a high level overview of the rendering world and resources for getting started in the different specializations
 - [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/) - An in-depth analysis of the interview process for experienced developers
 
@@ -387,7 +387,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [CUDA Pro Tip: Optimized Filtering with Warp-Aggregated Atomics](https://developer.nvidia.com/blog/cuda-pro-tip-optimized-filtering-warp-aggregated-atomics/)
 
 ## Color, HDR, and Tone Mapping
-- [Supporting Native HDR Monitors - OurMachinery](https://ourmachinery.com/post/supporting-native-hdr-monitors/)
+- [Supporting Native HDR Monitors - OurMachinery](https://ruby0x1.github.io/machinery_blog_archive/post/supporting-native-hdr-monitors/index.html)
 - [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
 - [Tone Mapping](https://64.github.io/tonemapping/) - Introduces the theory of Tone Mapping and talks about some commonly used Tone Mapping Operators
 
@@ -462,7 +462,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 #### Bindless/Descriptor indexing
 - 🎥 [Khronos Talk on Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
 - [Vulkan Descriptor Indexing for Mobile](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/vulkan-descriptor-indexing)
-- [OurMachinery's Moving The Machinery to Bindless](https://ourmachinery.com/post/moving-the-machinery-to-bindless)
+- [OurMachinery's Moving The Machinery to Bindless](https://ruby0x1.github.io/machinery_blog_archive/post/moving-the-machinery-to-bindless/index.html)
 - [Wicked Engine: Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 - [DethRaid's Vulkan Descriptor Indexing](https://gist.github.com/DethRaid/0171f3cfcce51950ee4ef96c64f59617)
 - [A note on Descriptor Indexing](https://chunkstories.xyz/blog/a-note-on-descriptor-indexing/)
@@ -570,10 +570,10 @@ A bunch of graphics debuggers above also have profiling capability.
 - [FidelityFX-Denoiser](https://github.com/GPUOpen-Effects/FidelityFX-Denoiser)
 - [Open Image AI Denoiser](https://github.com/OpenImageDenoise/oidn)
 
-## Polygonal Model Assets
+## Assets
+### Polygonal Model & Scene
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes.
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples.
-- [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
 - [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/) - Some assets of satelites, celestial bodies, etc. Various formats.
 - [Three Dimensional Scans](https://threedscans.com/) - some three dimensional scans of animals and statues.
@@ -581,7 +581,10 @@ A bunch of graphics debuggers above also have profiling capability.
 - [The Base Mesh](https://thebasemesh.com/) - CC0 mesh collection
 - [PolyHaven](https://polyhaven.com/) - Public 3d asset library, also CC0
 
-## Voxel Data Resources
+### Materials
+- [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
+
+### Voxel Data
 - [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their colleciton of publications.
 - [Open Scientific Visualization Datasets](https://klacansky.com/open-scivis-datasets/) - Large collection of CT scans of various objects.
 - [Stanford Volume Archive](https://www-graphics.stanford.edu/data/voldata/) - Several volume datasets (CT/MRI).
