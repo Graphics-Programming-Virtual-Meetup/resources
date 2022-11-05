@@ -590,6 +590,7 @@ A bunch of graphics debuggers above also have profiling capability.
 - [The Base Mesh](https://thebasemesh.com/) - CC0 mesh collection
 - [PolyHaven](https://polyhaven.com/) - Public 3d asset library, also CC0
 - [MIT CSAIL Sample OBJ Models](https://groups.csail.mit.edu/graphics/classes/6.837/F03/models/) - A couple models provided by MIT
+- [Intel Sponza and Graphics Research Samples Library](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) - Intel's revamped high resolution Sponza model and a couple related pieces 
 
 ### Materials
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
