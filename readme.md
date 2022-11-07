@@ -82,6 +82,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [Physics-Based Animation](#physics-based-animation)
   - [Attractors](#attractors)
 - [APIs](#apis)
+  - [Ray Tracing API](#ray-tracing-api)
   - [OpenGL](#opengl)
   - [Vulkan](#vulkan)
   - [DirectX 12](#directx-12)
