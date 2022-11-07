@@ -238,6 +238,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Edge-Avoiding À-Trous Wavelet Transform for fast Global Illumination Filtering](https://jo.dreggn.org/home/2010_atrous.pdf) - Classic paper that introduces a fast and simple filtering for real-time ray tracing denoising
 
 ### GPU Ray Tracing
+See also [APIs](#apis)
 - [Megakernels Considered Harmful: Wavefront Path Tracing on GPUs](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf)
 
 ## Rasterization
@@ -436,6 +437,10 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Strange Attractors on the GPU series](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1?collection=@rreusser/writeups)
 
 ## APIs
+### Ray Tracing API
+- [The RTX Shader Binding Table Three Ways](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways) - Talks about shader binding table with RX12, Vulkan, and Optix
+- [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) 15. The Shader Binding Table Demystified, by Will Usher - An extension for the above article
+
 ### OpenGL
 - [docs.gl](http://docs.gl/) - OpenGL API Documentation.
 - [GLConstantsTranslator](https://javagl.github.io/GLConstantsTranslator/GLConstantsTranslator.html) - This page has the names of most OpenGL constants with their respective decimal and hex values. It is useful for when certain functions return GL constants.
@@ -454,7 +459,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 #### Tutorials
 - [Vulkan Guide](https://vkguide.dev/) - The best "Vulkan Tutorial" available.
 - 🎥 [TU Wien: Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)
-- [vk_mini_path_tracer tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer) - A relative small tutorial that focus on path tracing using Vulkan's ray tracing API.
+- [vk_mini_path_tracer tutorial](https://github.com/nvpro-samples/vk_mini_path_tracer) - A relatively small tutorial that focuses on path tracing using Vulkan's ray tracing API.
 - [3D Graphics Rendering Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197)
 
 #### Meta-links
