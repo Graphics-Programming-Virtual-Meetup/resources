@@ -440,7 +440,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ## APIs
 ### Ray Tracing API
 - [The RTX Shader Binding Table Three Ways](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways) - Talks about shader binding table with RX12, Vulkan, and Optix
-- [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) 15. The Shader Binding Table Demystified, by Will Usher - An extension for the above article
+- Chapter 15 "The Shader Binding Table Demystified" of [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) - An extension for the above article
 
 ### OpenGL
 - [docs.gl](http://docs.gl/) - OpenGL API Documentation.
