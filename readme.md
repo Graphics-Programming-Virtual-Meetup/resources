@@ -125,7 +125,7 @@ A comprehensive introduction to various topics in computer graphics.
 - [Book Of Shaders](https://thebookofshaders.com/) - The author introduces shaders from an artistic perspective, and the book covers many topics that more engineering-focused resources such as "Learn OpenGL" won't cover.
 
 ## Meta-links
-Resources that curate other resources. Some of meta links are omitted here if they are mentioned in other categories.
+Resources that curate other resources. Some meta links are omitted here if they are mentioned in other categories.
 
 - [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 - [Volumetric Clouds Resources List](https://gist.github.com/pixelsnafu/e3904c49cbd8ff52cb53d95ceda3980e)
@@ -134,7 +134,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Fun with Computer Graphics](https://github.com/zheng95z/fun-with-computer-graphics)
 - [Awesome Graphics Libraries - engines & frameworks](https://github.com/jslee02/awesome-graphics-libraries)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Awesome Gamedev](https://github.com/ellisonleao/magictools) - Lots of graphics related stuff.
+- [Awesome Gamedev](https://github.com/ellisonleao/magictools) - Lots of graphics-related stuff.
 - [Physics-Based Animation](http://www.physicsbasedanimation.com/) - Contains learning resources and papers.
 - [Digital Morphogenesis Resources - Info About Some Different Simulation Techniques](https://github.com/jasonwebb/morphogenesis-resources)
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
@@ -150,9 +150,9 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [6.837: Introduction to Computer Graphics (fall 2020)](https://youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 - [Introduction to Computer Graphics - Cem Yuksel](https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 
-## Advices
+## Advice
 - [How to learn graphics programming (but not in a hurry): self-study edition](https://twitter.com/m_ninepoints/status/1215429886715629569) - A Twitter thread on how to learn graphics programming
-- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) - Presents a high level overview of the rendering world and resources for getting started in the different specializations
+- [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) - Presents a high-level overview of the rendering world and resources for getting started in the different specializations
 - [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/) - An in-depth analysis of the interview process for experienced developers
 
 ## Math
@@ -164,7 +164,7 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [immersive linear algebra](http://immersivemath.com/ila/index.html) - Free online book with interactive figures.
 - [Mathematics for Computer Graphics](https://www.amazon.com/Mathematics-Computer-Graphics-Undergraduate-Science/dp/1447173341)
 - [Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition](https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869)
-- [Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) - Introduces math routines with implementations. It also touchs Grassman algebra.
+- [Foundations of Game Engine Development, Volume 1: Mathematics](https://www.amazon.com/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) - Introduces math routines with implementations. It also touches Grassman algebra.
 
 ### Homogeneous Coordinate
 - [A trip down the graphics pipeline: the homogeneous perspective transform](https://www.ece.uvic.ca/~bctill/20004/additional/homcoord/00210494.pdf)
@@ -199,22 +199,22 @@ Resources that curate other resources. Some of meta links are omitted here if th
 ### Intro to Ray Tracing
 - [Ray Tracing in One Weekend series](https://raytracing.github.io/)
 - [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) - Turner Whitted's original Ray Tracing paper.
-- 🎥 [Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction of importance sampling.
-- [Global Illumination Compendium](https://www.ii.uni.wroc.pl/~anl/cgfiles/TotalCompendium.pdf) - overview of ray tracing / path tracing techniques.
+- 🎥 [Lecture 18: Monte Carlo Rendering (CMU 15-462/662)](https://youtu.be/FUZJNlRqrAc) - Including a very good introduction to importance sampling.
+- [Global Illumination Compendium](https://www.ii.uni.wroc.pl/~anl/cgfiles/TotalCompendium.pdf) - overview of ray tracing/path tracing techniques.
 - [Creating a physically-based path tracer](https://alexanderameye.github.io/notes/path-tracer/)
 
 ### Ray Tracing Books
 - [Physically Based Rendering: From Theory To Implementation Third Edition](https://www.pbr-book.org/) - The definitive book for offline rendering.
-- [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Like other "gems" book, it contains standalone chapters on various ray tracing topics.
+- [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Like other "gems" books, it contains standalone chapters on various ray tracing topics.
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) - An advanced book that focuses on light transport theory.
 
 ### Ray Tracing Courses
 - [Dartmouth Rendering Algorithms (Fall21)](https://cs87-dartmouth.github.io/Fall2021/) - The course nicely fills the gap between a Ray Tracing in One Weekend style toy renderer to a more general and fully-fledged renderer that PBRT describes.
 
-### Algortihms
+### Algorithms
 - [Bidirectional Estimators for Light Transport](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Veach94.pdf) - Introduces *bidirectional path tracing*.
-- [Monte Carlo Methods for Light Transport Simulation](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning PhD thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
+- [Monte Carlo Methods for Light Transport Simulation](https://graphics.stanford.edu/papers/veach_thesis/) - the Academy Award-winning Ph.D. thesis by Eric Veach. It starts from *bidirectional light transport algorithms* and introduces *multiple importance sampling* and *Metropolis light transport*
 
 ### BVH
 - [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) - Excellent overview paper on BVH.
@@ -231,12 +231,12 @@ Resources that curate other resources. Some of meta links are omitted here if th
 - [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.html) - combines RIS+MIS with reservoir sampling and demonstrates the reservoir merging capability to perform resampling across space and time
 
 ### Intersection
-- [Static Object Intersections - Real Time Rendering Resource Page](https://www.realtimerendering.com/intersections.html) - A collection of intersection algorithms.
+- [Static Object Intersections - Real-Time Rendering Resource Page](https://www.realtimerendering.com/intersections.html) - A collection of intersection algorithms.
 
 ### Denoising
 - [Ray Tracing Denoising - Alain.xyz](https://alain.xyz/blog/ray-tracing-denoising)
 - [Ray Tracing Filtering - Alain.xyz](https://alain.xyz/blog/ray-tracing-filtering)
-- [Edge-Avoiding À-Trous Wavelet Transform for fast Global Illumination Filtering](https://jo.dreggn.org/home/2010_atrous.pdf) - Classic paper that introduces a fast and simple filtering for real-time ray tracing denoising
+- [Edge-Avoiding À-Trous Wavelet Transform for fast Global Illumination Filtering](https://jo.dreggn.org/home/2010_atrous.pdf) - Classic paper that introduces a fast and simple filter for real-time ray tracing denoising
 
 ### GPU Ray Tracing
 See also [APIs](#apis)
@@ -323,7 +323,7 @@ See also [APIs](#apis)
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace)
 
 ### Volume Rendering
-- [Structured Volume Sampling](https://github.com/huwb/volsample) - MIT-licensed implementation of Structured Volume Sampling technique, along with simple framework for comparing other techniques.
+- [Structured Volume Sampling](https://github.com/huwb/volsample) - MIT-licensed implementation of the Structured Volume Sampling technique, along with a simple framework for comparing other techniques.
 
 ### Dithering
 - [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - describe a novel algorithm for ordered dithering based on an arbitrary palette
@@ -378,7 +378,7 @@ See also [APIs](#apis)
 
 ### GPU Architecture
 - 🎥 [CIS 565 GPU Programming and Architecture](http://cis565-fall-2021.github.io/) - A course that introduce parallel programming with a Computer Graphics flavor.
-- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) - This article summarizes some lower level aspect of how GPU executes. It uses the Vulkan API terminology, but the concept is largely platform independent.
+- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/) - This article summarizes some lower-level aspects of how GPU executes. It uses the Vulkan API terminology, but the concept is largely platform-independent.
 - [GCN – two ways of latency hiding and wave occupancy](https://bartwronski.com/2014/03/27/gcn-two-ways-of-latency-hiding-and-wave-occupancy/)
 - [Breaking Down Barriers](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
@@ -431,7 +431,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 
 ## Physics and Simulation
 ### Physics-Based Animation
-- 🎥 [SIGGRAPH University 2019 Course - An Introduction to Physics-Based Animation](https://youtu.be/b_WJ-HwalwU) - A three-hour fast-pace introduction to Physics-Based Animation
+- 🎥 [SIGGRAPH University 2019 Course - An Introduction to Physics-Based Animation](https://youtu.be/b_WJ-HwalwU) - A three-hour fast-paced introduction to Physics-Based Animation
 - 🎥 [CSC417/CSC2549-Physics-based Animation Fall 2021](https://youtube.com/playlist?list=PLTkE7n2CwG_PH09_q0Q7ttjqE2F9yGeM3) - Introductory lecture for a course in physics-based animation.
 
 ### Attractors
@@ -444,7 +444,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 
 ### OpenGL
 - [docs.gl](http://docs.gl/) - OpenGL API Documentation.
-- [GLConstantsTranslator](https://javagl.github.io/GLConstantsTranslator/GLConstantsTranslator.html) - This page has the names of most OpenGL constants with their respective decimal and hex values. It is useful for when certain functions return GL constants.
+- [GLConstantsTranslator](https://javagl.github.io/GLConstantsTranslator/GLConstantsTranslator.html) - This page has the names of most OpenGL constants with their respective decimal and hex values. It is useful when certain functions return GL constants.
 
 #### Tutorials
 - [Learn OpenGL](https://learnopengl.com/) - The highly recommended tutorial.
@@ -472,7 +472,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 
 #### Renderpass & Dynamic Rendering
 - [VK_KHR_dynamic_rendering tutorial](https://lesleylai.info/en/vk-khr-dynamic-rendering/) - A tutorial to Vulkan's dynamic rendering extension
-- [Khrnos: Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes) - Introduces the [VK_KHR_dynamic_rendering](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/VK_KHR_dynamic_rendering.html) extension.
+- [Khronos: Streamlining Render Passes](https://www.khronos.org/blog/streamlining-render-passes) - Introduces the [VK_KHR_dynamic_rendering](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/VK_KHR_dynamic_rendering.html) extension.
 
 #### Bindless/Descriptor indexing
 - 🎥 [Khronos Talk on Descriptor Indexing](https://www.youtube.com/watch?v=tXipcoeuNh4)
@@ -483,7 +483,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [A note on Descriptor Indexing](https://chunkstories.xyz/blog/a-note-on-descriptor-indexing/)
 - [Vulkan Pills 1: Bindless Textures](https://jorenjoestar.github.io/post/vulkan_bindless_texture/)
 
-#### Sychronization
+#### Synchronization
 - [TheMaister's Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 - [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
 - [Vulkan Timeline Semaphores](https://www.khronos.org/blog/vulkan-timeline-semaphores)
@@ -495,8 +495,8 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 #### Libraries
 - [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - Library that simplifies the Vulkan initialization boilerplate.
 - [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Memory allocation library that simplifies Vulkan memory allocation and provides decent performance.
-- [volk](https://github.com/zeux/volk) - Meta-loader for Vulkan that allows you to dynamically load entrypoints required to use Vulkan. It also simplify the use of Vulkan extensions.
-- [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Can be used to extract descriptor and push constant information from SPIRV.
+- [volk](https://github.com/zeux/volk) - Meta-loader for Vulkan that allows you to dynamically load entry points required to use Vulkan. It also simplifies the use of Vulkan extensions.
+- [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - Can be used to extract descriptors and push constant information from SPIRV.
 
 #### Performance Best Practice
 - [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
@@ -522,19 +522,19 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### WebGPU
 - [Spec](https://gpuweb.github.io/gpuweb/)
 #### Tutorials
-- [Learn wgpu](https://sotrh.github.io/learn-wgpu/) - Tutorial of WebGPU api using Rust and the wgpu library.
+- [Learn wgpu](https://sotrh.github.io/learn-wgpu/) - Tutorial of WebGPU API using Rust and the wgpu library.
 
 ## System Design
 ### Renderer Architecture
 - 🎥 [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
-- [Efficently rendering glTF models](https://toji.github.io/webgpu-gltf-case-study/) - A case study on how to design a renderer under modern graphics APIs that can take diverse input
+- [Efficiently rendering glTF models](https://toji.github.io/webgpu-gltf-case-study/) - A case study on how to design a renderer under modern graphics APIs that can take diverse input
 
 ### GPU-driven rendering
 - [GPU Driven Rendering - Siggraph 2015](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
 
 
 ## Scene Description
-- [Siggraph 2019 Hydra](https://graphics.pixar.com/usd/files/Siggraph2019_Hydra.pdf) - Presentation slides for Hydra, which is an open source framework to transport live scene graph data to renderers.
+- [Siggraph 2019 Hydra](https://graphics.pixar.com/usd/files/Siggraph2019_Hydra.pdf) - Presentation slides for Hydra, which is an open-source framework to transport live scene graph data to renderers.
 
 ## General Programming
 ### Meta-links
@@ -542,17 +542,17 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Awesome C++](https://project-awesome.org/fffaraz/awesome-cpp)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 ### Engine Development
-- [Game Engine Archirecture](https://www.gameenginebook.com/) (paid book)
+- [Game Engine Architecture](https://www.gameenginebook.com/) (paid book)
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It?](https://therealmjp.github.io/posts/shader-permutations-part2/)
 ### Performance Optimization
-- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - This book contains of great info on getting the best performance through looking at the actual hardware.
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - This book contains great info on getting the best performance by looking at the actual hardware.
 ### High-level Programming
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 ### Game loop
 - [Game Loop - Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/)
-- Chapter 8 "The Game Loop and Real-Time Simulation" of Game Engine Archirecture
+- Chapter 8 "The Game Loop and Real-Time Simulation" of Game Engine Architecture
 
 ### Floating-point numbers
 - [Floating-point in mobile shaders](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
@@ -560,7 +560,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### Memory Allocation & Management
 - [Memory Allocation Strategies series](https://www.gingerbill.org/series/memory-allocation-strategies/)
 - [Memory Management section on Pbrt](https://www.pbr-book.org/3ed-2018/Utilities/Memory_Management)
-- The Memory chapter of Game Engine Archirecture
+- The Memory chapter of Game Engine Architecture
 - [Object Pool](http://gameprogrammingpatterns.com/object-pool.html) chapter of Game Programming Pattern.
 - 🎥 CppCon 2017: John Lakos “Local ('Arena') Memory Allocators” [[Part1]](https://youtu.be/nZNd5FjSquk) [[Part2]](https://youtu.be/CFzuFNSpycI)
 - 🎥 [CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://youtu.be/kSWfushlvB8)
@@ -575,7 +575,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [SpectorJS (WebGL)](https://github.com/BabylonJS/Spector.js)
 
 ### Profilers
-A bunch of graphics debuggers above also have profiling capability.
+A bunch of graphics debuggers above also have profiling capabilities.
 - [Optick: C++ Profiler For Games](https://github.com/bombomby/optick)
 - [Tracy Profiler](https://github.com/wolfpld/tracy)
 - [Dear Imgui profiler widget](https://github.com/Raikiri/LegitProfiler)
@@ -590,19 +590,19 @@ A bunch of graphics debuggers above also have profiling capability.
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes.
 - [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) - Scenes in Tungsten, Mitsuba, and pbrt-v3 formats.
-- [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/) - Some assets of satelites, celestial bodies, etc. Various formats.
-- [Three Dimensional Scans](https://threedscans.com/) - some three dimensional scans of animals and statues.
-- [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) - informal acknowledgement/nondefacement of cultural symbols license 
+- [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/) - Some assets of satellites, celestial bodies, etc. Various formats.
+- [Three Dimensional Scans](https://threedscans.com/) - some three-dimensional scans of animals and statues.
+- [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) - a bunch of scanned reconstructions
 - [The Base Mesh](https://thebasemesh.com/) - CC0 mesh collection
 - [PolyHaven](https://polyhaven.com/) - Public 3d asset library, also CC0
-- [MIT CSAIL Sample OBJ Models](https://groups.csail.mit.edu/graphics/classes/6.837/F03/models/) - A couple models provided by MIT
-- [Intel Sponza and Graphics Research Samples Library](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) - Intel's revamped high resolution Sponza model and a couple related pieces 
+- [MIT CSAIL Sample OBJ Models](https://groups.csail.mit.edu/graphics/classes/6.837/F03/models/) - A couple of models provided by MIT
+- [Intel Sponza and Graphics Research Samples Library](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) - Intel's revamped high-resolution Sponza model and a couple of related pieces 
 
 ### Materials
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
 
 ### Voxel Data
-- [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their colleciton of publications.
+- [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their collection of publications.
 - [Open Scientific Visualization Datasets](https://klacansky.com/open-scivis-datasets/) - Large collection of CT scans of various objects.
 - [Stanford Volume Archive](https://www-graphics.stanford.edu/data/voldata/) - Several volume datasets (CT/MRI).
 - [NIH Visible Human Dataset](https://www.nlm.nih.gov/databases/download/vhp.html) - Cryosection and MRI/CT data of a male and female cadaver.
