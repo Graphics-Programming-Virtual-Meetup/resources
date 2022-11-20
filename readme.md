@@ -350,7 +350,7 @@ See also [APIs](#apis)
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
 <!-- markdown-link-check-disable-next-line -->
 - [Basics of physically-based rendering](https://www.researchgate.net/publication/262326548_Basics_of_physically-based_rendering)
-
+- [PBR Material Reference Values List](https://physicallybased.info/)
 ## Textures
 ### Mipmapping
 - [Pyramidal Parametrics](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf) - The original Mipmap paper.
