@@ -342,6 +342,7 @@ See also [APIs](#apis)
 - 🎥 [Procedural Grass in 'Ghost of Tsushima'](https://www.youtube.com/watch?v=Ibe1JBF5i5Y)
 
 ## PBR
+See also [Assets/Materials](#materials) for PBR materials
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
 - [Everything (or most things) wrong with learnopengl.com/PBR/Theory](https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit)
@@ -350,7 +351,6 @@ See also [APIs](#apis)
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
 <!-- markdown-link-check-disable-next-line -->
 - [Basics of physically-based rendering](https://www.researchgate.net/publication/262326548_Basics_of_physically-based_rendering)
-- [PBR Material Reference Values List](https://physicallybased.info/)
 ## Textures
 ### Mipmapping
 - [Pyramidal Parametrics](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf) - The original Mipmap paper.
@@ -601,6 +601,7 @@ A bunch of graphics debuggers above also have profiling capabilities.
 
 ### Materials
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
+- [Physically Based](https://physicallybased.info/) - A database of physically based values for CG artists
 
 ### Voxel Data
 - [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their collection of publications.
