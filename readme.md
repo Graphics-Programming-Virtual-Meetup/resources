@@ -385,6 +385,7 @@ See also [Assets/Materials](#materials) for PBR materials
 - [Breaking Down Barriers](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 - [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
+<!-- markdown-link-check-disable-next-line -->
 - [RDNA Architecture Whitepaper](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
 - [AMU RDNA2 Performance guide](https://gpuopen.com/performance/)
 - [The Peak-Performance-Percentage Analysis Method for Optimizing Any GPU Workload](https://developer.nvidia.com/blog/the-peak-performance-analysis-method-for-optimizing-any-gpu-workload/)
