@@ -138,6 +138,7 @@ Resources that curate other resources. Some meta links are omitted here if they 
 - [Physics-Based Animation](http://www.physicsbasedanimation.com/) - Contains learning resources and papers.
 - [Digital Morphogenesis Resources - Info About Some Different Simulation Techniques](https://github.com/jasonwebb/morphogenesis-resources)
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
+- [Graphics Studies Compilation - Adrian Courrèges](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/) - Handy compilation of frame breakdown articles
 
 ## Overview
 ### Books
