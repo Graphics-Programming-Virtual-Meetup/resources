@@ -41,6 +41,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [GPU Ray Tracing](#gpu-ray-tracing)
 - [Rasterization](#rasterization)
   - [Graphics Pipeline](#graphics-pipeline)
+  - [Shading Techniques](#shading-techniques)
   - [Culling](#culling)
   - [Depth Buffer](#depth-buffer)
   - [Software Rasterization](#software-rasterization)
