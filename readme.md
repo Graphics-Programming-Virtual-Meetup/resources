@@ -246,8 +246,11 @@ See also [APIs](#apis)
 ## Rasterization
 ### Graphics Pipeline
 - [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
-- [Graphics Pipelines for Young Bloods](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/) - Discuss various tradeoffs between different graphics pipeline techniques
 - [Creative Use of GPU Fixed-Function Hardware](https://asawicki.info/news_1745_creative_use_of_gpu_fixed-function_hardware)
+
+### Shading Techniques
+- [Graphics Pipelines for Young Bloods](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/) - Discuss various tradeoffs between different graphics pipeline techniques
+- [A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html) - Same as the above article but delves deeper with clustered shading
 
 ### Culling
 - [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index/)
