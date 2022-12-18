@@ -73,6 +73,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [DirectX 12](#directx-12)
   - [WebGL](#webgl)
   - [WebGPU](#webgpu)
+- [Portable APIs](#portable-apis)
 - [System Design](#system-design)
   - [Renderer Architecture](#renderer-architecture)
   - [GPU-driven rendering](#gpu-driven-rendering)
@@ -401,7 +402,14 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### WebGPU
 - [Spec](https://gpuweb.github.io/gpuweb/)
 #### Tutorials
-- [Learn wgpu](https://sotrh.github.io/learn-wgpu/) - Tutorial of WebGPU api using Rust and the wgpu library.
+- [Raw WebGPU](https://alain.xyz/blog/raw-webgpu) - An overview on how to write a WebGPU application. Learn what key data structures and types are needed to draw in WebGPU.
+- [WebGPU Step-by-Step](https://github.com/jack1232/WebGPU-Step-By-Step) - Code examples of Step-by-Step WebGPU [video series](https://www.youtube.com/watch?v=-hXtt4ioH5A&list=PL_UrKDEhALdKh0118flOjuAnVIGKFUJXN)
+
+## Portable APIs
+- [three-d](https://github.com/asny/three-d/) - A OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics simple but still have the power to draw exactly what you want.
+- [wgpu](https://wgpu.rs) - is a cross-platform, safe, Rust graphics API. It runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU/WebGL on wasm. The API is based on the WebGPU standard. It serves as the core of the WebGPU integration in Firefox, Servo, and Deno.
+#### Tutorials
+- [Learn wgpu](https://sotrh.github.io/learn-wgpu/) - Tutorial of WebGPU API using Rust and the wgpu library.
 
 ## System Design
 ### Renderer Architecture
