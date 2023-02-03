@@ -607,6 +607,7 @@ A bunch of graphics debuggers above also have profiling capabilities.
 - [MIT CSAIL Sample OBJ Models](https://groups.csail.mit.edu/graphics/classes/6.837/F03/models/) - A couple of models provided by MIT
 - [Intel Sponza and Graphics Research Samples Library](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) - Intel's revamped high-resolution Sponza model and a couple of related pieces
 - [KhronosGroup glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
+- [Quaternius Free Game Assets](https://quaternius.com/tutorials.html) - Low poly models, CC0
 
 ### Materials
 - [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering.
