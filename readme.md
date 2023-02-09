@@ -175,6 +175,9 @@ Resources that curate other resources. Some meta links are omitted here if they 
 ### Rotation
 - [Gimbal lock confusion - Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/questions/12273/gimbal-lock-confusion)
 
+### Quaternions
+- [Visualizing quaternions](https://eater.net/quaternions) - A great intereactive introduction/refresher for quaternions.
+
 ### Geometric Algebra
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/) - Introduces *Rotors* in Geometric Algebra.
 
