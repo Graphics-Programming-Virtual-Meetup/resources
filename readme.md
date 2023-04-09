@@ -197,7 +197,6 @@ Resources that curate other resources. Some meta links are omitted here if they 
 - [Spherical Harmonics - Insights And Fundamentals](https://github.com/AlexSabourinDev/cranberry_blog/blob/master/SphericalHarmonics_Fundamentals.md)
 - [Spherical Harmonic Lighting](https://simonstechblog.blogspot.com/2011/12/spherical-harmonic-lighting.html)
 - [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf)
-- [Spherical Harmonic Lighting: The Gritty Details](http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf)
 
 ### Geometry
 - [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
