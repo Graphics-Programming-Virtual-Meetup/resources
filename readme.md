@@ -179,6 +179,9 @@ Resources that curate other resources. Some meta links are omitted here if they 
 ### Quaternions
 - [Visualizing quaternions](https://eater.net/quaternions) - A great intereactive introduction/refresher for quaternions. It focuses on intuition rather than mathematical definitions.
 
+### Linear Algebra / Matrices
+- [GPUOpen Matrix Compendium](https://gpuopen.com/learn/matrix-compendium/matrix-compendium-intro/)
+
 ### Geometric Algebra
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/) - Introduces *Rotors* in Geometric Algebra.
 
