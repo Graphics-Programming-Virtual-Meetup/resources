@@ -25,6 +25,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [Homogeneous Coordinate](#homogeneous-coordinate)
   - [Rotation](#rotation)
   - [Quaternions](#quaternions)
+  - [Linear Algebra / Matrices](#linear-algebra--matrices)
   - [Geometric Algebra](#geometric-algebra)
   - [Curves and Surfaces](#curves-and-surfaces)
   - [Implementing Math Library](#implementing-math-library)
