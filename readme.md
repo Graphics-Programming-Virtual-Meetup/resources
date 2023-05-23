@@ -133,7 +133,8 @@ Resources that curate other resources. Some meta links are omitted here if they 
 - [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 - [Volumetric Clouds Resources List](https://gist.github.com/pixelsnafu/e3904c49cbd8ff52cb53d95ceda3980e)
 - [graphics resources](https://github.com/mattdesl/graphics-resources)
-- [Awesome Computer Graphics](https://github.com/luisnts/awesome-computer-graphics)
+- [Awesome Computer Graphics (luisnts)](https://github.com/luisnts/awesome-computer-graphics)
+- [Awesome Computer Graphics (waitin2010)](https://github.com/waitin2010/awesome-computer-graphics)
 - [Fun with Computer Graphics](https://github.com/zheng95z/fun-with-computer-graphics)
 - [Awesome Graphics Libraries - engines & frameworks](https://github.com/jslee02/awesome-graphics-libraries)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -143,6 +144,8 @@ Resources that curate other resources. Some meta links are omitted here if they 
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
 - [Graphics Studies Compilation - Adrian Courrèges](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/) - Handy compilation of frame breakdown articles
 - [Readings on Physically Based Rendering](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/) - A collection of resources related to PBR rendering
+- [Computer Graphics Resources Materials for Self Study](https://legends2k.github.io/note/cg_resources/)
+- [Resources for Beginning Graphics Programming](https://medium.com/vrtigo/resources-for-beginning-graphics-programming-c0da724381bc)
 
 ## Overview
 ### Books
