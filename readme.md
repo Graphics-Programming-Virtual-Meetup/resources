@@ -191,6 +191,7 @@ Resources that curate other resources. Some meta links are omitted here if they 
 
 ### Curves and Surfaces
 - 🎥 [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
+- [Bézier Curves](https://blog.richardekwonye.com/bezier-curves) - An interactive explanation and exploration of Bezier curves
 
 ### Implementing Math Library
 - [On Vector Math Libraries](https://www.reedbeta.com/blog/on-vector-math-libraries/)
