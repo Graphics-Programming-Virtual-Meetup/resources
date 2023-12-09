@@ -186,6 +186,7 @@ Resources that curate other resources. Some meta links are omitted here if they 
 
 ### Linear Algebra / Matrices
 - [GPUOpen Matrix Compendium](https://gpuopen.com/learn/matrix-compendium/matrix-compendium-intro/)
+- [3Blue1Brown Youtube Channel](https://www.youtube.com/c/3blue1brown) - general math topics, good for linear algebra and calculus.
 
 ### Geometric Algebra
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/) - Introduces *Rotors* in Geometric Algebra.
