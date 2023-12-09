@@ -126,6 +126,7 @@ though intermediate or advanced folks can also benefit from them.
 A comprehensive introduction to various topics in computer graphics.
 - [Catlike Coding](https://catlikecoding.com/) - Focuses on C# and shaders in Unity.
 - [Book Of Shaders](https://thebookofshaders.com/) - The author introduces shaders from an artistic perspective, and the book covers many topics that more engineering-focused resources such as "Learn OpenGL" won't cover.
+- [ShaderToy](https://www.shadertoy.com/) - Huge collection of open source techniques to refer to, ranging from very basic to more advanced topics. 
 
 ## Meta-links
 Resources that curate other resources. Some meta links are omitted here if they are mentioned in other categories.
