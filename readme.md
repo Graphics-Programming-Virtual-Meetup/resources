@@ -4,7 +4,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
 
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
-- Follow us on Twitter: https://twitter.com/GraphicsMeetup
+- Follow us on Mastodon: https://mastodon.gamedev.place/@graphicsmeetup
 - YouTube channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
 
 ## Contents
@@ -160,7 +160,6 @@ Resources that curate other resources. Some meta links are omitted here if they 
 - [Introduction to Computer Graphics - Cem Yuksel](https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 
 ## Advice
-- [How to learn graphics programming (but not in a hurry): self-study edition](https://twitter.com/m_ninepoints/status/1215429886715629569) - A Twitter thread on how to learn graphics programming
 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) - Presents a high-level overview of the rendering world and resources for getting started in the different specializations
 - [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/) - An in-depth analysis of the interview process for experienced developers
 
@@ -320,8 +319,8 @@ See also [APIs](#apis)
 
 ### Ray Marching and SDF
 - [Graphics Codex: Ray Marching](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_rayMrch)
-- [Distant functions for primitives - Inigo Quilez](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
-- [soft shadows in raymarched SDFs - 2010](https://www.iquilezles.org/www/articles/rmshadows/rmshadows.htm)
+- [Distant functions for primitives - Inigo Quilez](http://iquilezles.org/articles/distfunctions/)
+- [soft shadows in raymarched SDFs - 2010](http://iquilezles.org/articles/rmshadows/)
 
 ### Line, Edge, and Outline Drawing
 #### Triangulated line
@@ -490,7 +489,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Great Resources - Vulkan Guide](https://vkguide.dev/docs/great_resources)
 
-#### Swapchain & frame resources
+#### Swapchain & frame resources<!-- markdown-link-check-disable-next-line -->
 - [API without Secrets: The Practical Approach to Vulkan* - Part 1](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html) (there is no part 2)
 
 #### Renderpass & Dynamic Rendering
@@ -555,7 +554,6 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### GPU-driven rendering
 - [GPU Driven Rendering - Siggraph 2015](http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf)
 
-
 ## Scene Description
 - [Siggraph 2019 Hydra](https://graphics.pixar.com/usd/files/Siggraph2019_Hydra.pdf) - Presentation slides for Hydra, which is an open-source framework to transport live scene graph data to renderers.
 
@@ -593,7 +591,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 ### Debuggers
 - [RenderDoc](https://renderdoc.org/)
 - [Nvidia Nsight Graphics](https://developer.nvidia.com/nsight-graphics)
-- [Radeon™ GPU Profiler (AMD)](https://github.com/GPUOpen-Tools/radeon_gpu_profiler)
+- [Radeon™ GPU Profiler (AMD)](https://github.com/GPUOpen-Tools/radeon_gpu_profiler)<!-- markdown-link-check-disable-next-line -->
 - [Intel® GPA](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html)
 - [SpectorJS (WebGL)](https://github.com/BabylonJS/Spector.js)
 
@@ -618,7 +616,7 @@ A bunch of graphics debuggers above also have profiling capabilities.
 - [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) - a bunch of scanned reconstructions
 - [The Base Mesh](https://thebasemesh.com/) - CC0 mesh collection
 - [PolyHaven](https://polyhaven.com/) - Public 3d asset library, also CC0
-- [MIT CSAIL Sample OBJ Models](https://groups.csail.mit.edu/graphics/classes/6.837/F03/models/) - A couple of models provided by MIT
+- [MIT CSAIL Sample OBJ Models](https://groups.csail.mit.edu/graphics/classes/6.837/F03/models/) - A couple of models provided by MIT<!-- markdown-link-check-disable-next-line -->
 - [Intel Sponza and Graphics Research Samples Library](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) - Intel's revamped high-resolution Sponza model and a couple of related pieces
 - [KhronosGroup glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
 - [Quaternius Free Game Assets](https://quaternius.com/tutorials.html) - Low poly models, CC0
@@ -631,6 +629,5 @@ A bunch of graphics debuggers above also have profiling capabilities.
 - [TU Wien Volume Data](https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/) - Listed in their collection of publications.
 - [Open Scientific Visualization Datasets](https://klacansky.com/open-scivis-datasets/) - Large collection of CT scans of various objects.
 - [Stanford Volume Archive](https://www-graphics.stanford.edu/data/voldata/) - Several volume datasets (CT/MRI).
-- [NIH Visible Human Dataset](https://www.nlm.nih.gov/databases/download/vhp.html) - Cryosection and MRI/CT data of a male and female cadaver.
 - [MorphoSource](https://www.morphosource.org) - Enormous library of 2D and 3D data, mesh and voxel, of biological samples and cultural objects.
 - [Osirix MANIX and other test DICOMs](https://www.osirix-viewer.com/resources/dicom-image-library/)
