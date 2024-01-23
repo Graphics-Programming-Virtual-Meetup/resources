@@ -366,6 +366,7 @@ See also [Assets/Materials](#materials) for PBR materials
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html)
 - [PBR - Learn OpenGL](https://learnopengl.com/PBR/Theory)
 - [Everything (or most things) wrong with learnopengl.com/PBR/Theory](https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit)
+- [Real Shading in Unreal Engine 4](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf) - discusses the PBR model adopted by Epic Games in their 4th Unreal Engine installment. A large part of Learn OpenGL PBR chapter is adapted from this source
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
@@ -424,7 +425,6 @@ See also [Assets/Materials](#materials) for PBR materials
 - [Introduction to Color Theory for Games, Art and Tech - Shahriar Shahrabi](https://shahriyarshahrabi.medium.com/introduction-to-color-theory-for-games-art-and-tech-67bd4c8607d7)
 - [Tone Mapping](https://64.github.io/tonemapping/) - Introduces the theory of Tone Mapping and talks about some commonly used Tone Mapping Operators
 
-
 ## Sampling and anti-aliasing
 See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reduction)
 - [A Pixel is not a Little Square!](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) - Classic paper on misconception of "a pixel is a little square." It also serves as an introduction to sampling.
@@ -437,6 +437,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
 - 🎥 [Animation Programming Basics](https://youtu.be/Jkv0pbp0ckQ)
 - 🎥 [Animation Graphs](https://youtu.be/R-T3Mk5oDHI)
+- [Skeletal animation in glTF](https://lisyarus.github.io/blog/graphics/2023/07/03/gltf-animation.html)
 
 ## Geometry
 ### Geometry representations
