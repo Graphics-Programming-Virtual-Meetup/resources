@@ -581,6 +581,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - Chapter 8 "The Game Loop and Real-Time Simulation" of Game Engine Architecture
 
 ### Floating-point numbers
+- [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) - A series about floating-point numbers by Mike Acton
 - [Floating-point in mobile shaders](https://solidpixel.github.io/2021/11/23/floats_in_shaders.html)
 
 ### Memory Allocation & Management
