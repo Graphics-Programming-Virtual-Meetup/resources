@@ -432,6 +432,7 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 - [Computing the Discrepancy with Applications to Supersampling Patterns](http://mentallandscape.com/Papers_tog96.pdf)
 - [Generating Antialiased Images at Low Sampling Densities](http://mentallandscape.com/Papers_siggraph87.pdf)
 - [Temporal Anti Aliasing – Step by Step](https://ziyadbarakat.wordpress.com/2020/07/28/temporal-anti-aliasing-step-by-step/)
+- [The Accumulation Buffer: Hardware Support for High-Quality Rendering (SIGGRAPH 1990)](https://graphics.stanford.edu/courses/cs248-02/haeberli-akeley-accumulation-buffer-sig90.pdf)
 
 ## Animation
 - [Learn OpenGL: Skeletal Animation](https://learnopengl.com/Guest-Articles/2020/Skeletal-Animation)
