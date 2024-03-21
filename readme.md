@@ -84,6 +84,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
 - [Physics and Simulation](#physics-and-simulation)
   - [Physics-Based Animation](#physics-based-animation)
   - [Attractors](#attractors)
+  - [Optics](#optics)
 - [APIs](#apis)
   - [Ray Tracing API](#ray-tracing-api)
   - [OpenGL](#opengl)
@@ -458,6 +459,9 @@ See also [Ray Tracing/Sampling & Variance Reduction](#sampling--variance-reducti
 
 ### Attractors
 - [Strange Attractors on the GPU series](https://observablehq.com/@rreusser/strange-attractors-on-the-gpu-part-1?collection=@rreusser/writeups)
+
+### Optics
+- [Make Your Bokeh Fascinating + related SIGGRAPH 2015 Course](https://research.tri-ace.com/s2015.html) + [Video Recordings](https://dl.acm.org/doi/10.1145/2776880.2792715)
 
 ## APIs
 ### Ray Tracing API
