@@ -163,6 +163,7 @@ Resources that curate other resources. Some meta links are omitted here if they 
 ## Advice
 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) - Presents a high-level overview of the rendering world and resources for getting started in the different specializations
 - [Insider guide to tech interviews](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/) - An in-depth analysis of the interview process for experienced developers
+- [Graphics Programming – Where To Start?](https://www.stefanpijnacker.nl/article/graphics-programming-where-to-start/) - Advices and resource recommendation for beginning learner
 
 ## Math
 
