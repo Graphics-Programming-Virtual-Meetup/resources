@@ -291,6 +291,13 @@ See also [APIs](#apis)
 - [Three Normal Mapping Techniques Explained For the Mathematically Uninclined](https://www.gamedeveloper.com/programming/three-normal-mapping-techniques-explained-for-the-mathematically-uninclined)
 - [Normal Mapping - Learn OpenGL](https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
 
+### Hash Functions
+-[PCG Family of Hash Functions - Hash Functions for GPU Rendering](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/)
+
+### Dithering
+-[Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - Dithering for aesthetic purposes.
+-[Anisoptera Games - How to Fix Color Banding with Dithering](https://www.anisopteragames.com/how-to-fix-color-banding-with-dithering/) - Dithering for functional purposes (fixing color banding on gradients).
+
 ### Shadow
 - [Shadow Mapping - LearnOpenGL](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
 - [Percentage-Closer Soft Shadows](https://developer.download.nvidia.com/shaderlibrary/docs/shadow_PCSS.pdf)
