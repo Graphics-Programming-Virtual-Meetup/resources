@@ -153,7 +153,7 @@ Resources that curate other resources. Some meta links are omitted here if they 
 
 ## Overview
 ### Books
-- [Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html) - Free book that contains chapters on physically-based shading and rendering, coding projects, and reference pages.
+- [Graphics Codex](https://graphicscodex.com/app/app.html) - Free book that contains chapters on physically-based shading and rendering, coding projects, and reference pages.
 - [Real-Time Rendering, Fourth Edition](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003)
 - [Fundamentals of Computer Graphics 5th Edition](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037)
 
