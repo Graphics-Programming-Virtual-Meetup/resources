@@ -329,7 +329,7 @@ See also [APIs](#apis)
   - [Endgame](https://interplayoflight.wordpress.com/2022/07/10/order-independent-transparency-endgame/)
 
 ### Ray Marching and SDF
-- [Graphics Codex: Ray Marching](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_rayMrch)
+- [Graphics Codex: Ray Marching](https://graphicscodex.com/app/app.html?page=_rn_rayMrch)
 - [Distant functions for primitives - Inigo Quilez](http://iquilezles.org/articles/distfunctions/)
 - [soft shadows in raymarched SDFs - 2010](http://iquilezles.org/articles/rmshadows/)
 
