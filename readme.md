@@ -213,6 +213,7 @@ Resources that curate other resources. Some meta links are omitted here if they 
 
 ### Geometry
 - [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
+- [Point-Based Graphics Metalink](https://www.realtimerendering.com/kesen/PointBasedPaper.html)
 
 ## Ray Tracing
 ### Intro to Ray Tracing
