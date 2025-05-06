@@ -26,6 +26,7 @@ A hand-picked list of graphics programming resources maintained by graphics prog
   - [Rotation](#rotation)
   - [Quaternions](#quaternions)
   - [Linear Algebra / Matrices](#linear-algebra--matrices)
+  - [Barycentric Coordinates](#barycentric-coordinates)
   - [Geometric Algebra](#geometric-algebra)
   - [Curves and Surfaces](#curves-and-surfaces)
   - [Implementing Math Library](#implementing-math-library)
