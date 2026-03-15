@@ -1,7 +1,10 @@
 # Graphics Programming Resources
 
+**Note: This repository has been archived. The resource list is now maintained on [our website](https://gpvm.org/resources/)**
+
 A hand-picked list of graphics programming resources maintained by graphics programming virtual meetup attendees.
 
+- Our Website: https://gpvm.org/
 - Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
 - Join our Discord: https://discord.gg/TsTDb4uYfR
 - Follow us on Mastodon: https://mastodon.gamedev.place/@graphicsmeetup
